@@ -1,21 +1,17 @@
-# Use the official Python 3.11 image
+# Use the official Python 3.11 slim image
 FROM python:3.11-slim
 
-# Set working directory
+# Set working directory inside the container
 WORKDIR /app
 
-# Copy requirements first (caching layer)
-COPY requirements.txt .
+# Copy everything from app/ folder
+COPY app/ .
 
-# Install dependencies
+# Install dependencies (now requirements.txt is in current directory)
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of your app code
-COPY . .
-
-# Expose port for FastAPI
+# Expose the port FastAPI will run on
 EXPOSE 8000
 
-# Start the app with uvicorn
+# Start the FastAPI app with uvicorn
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
-
