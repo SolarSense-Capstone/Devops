@@ -1,8 +1,8 @@
 # Monitoring Setup
 
 **Author:** Lydiah (DevOps)  
-**Due Date:** February 20, 2026  
-**Last Updated:** February 17, 2026
+**Due Date:** February 19, 2026  
+
 
 ---
 
@@ -35,7 +35,8 @@ UptimeRobot pings the health endpoint every 5 minutes and sends an email alert i
 - If response is not 200 OK → sends email alert
 - Dashboard shows uptime percentage and response time history
 
-**Status:** ⏳ To be set up by February 20
+<img width="1366" height="768" alt="uptime monitoring" src="https://github.com/user-attachments/assets/f589dc6b-4235-45d3-917c-ea0bd97e6e00" />
+
 
 ---
 
@@ -72,6 +73,8 @@ process.exit(1)                           ← App crashed
 - After every new deployment
 - During integration testing week
 - Every morning during demo week (Feb 25–27)
+  
+<img width="1366" height="768" alt="render logs" src="https://github.com/user-attachments/assets/ed334203-6236-4dbd-93d4-89f8a651d144" />
 
 ---
 
