@@ -13,9 +13,9 @@ As the DevOps engineer for the SolarSense platform, I leveraged AI tools extensi
 
 **Key Metrics:**
 - **Time saved:** Estimated 40-50 hours (would have taken 60-70 hours without AI)
-- **AI tools used:** Claude (Anthropic), ChatGPT, GitHub Copilot
-- **Code generated with AI assistance:** ~60-70%
-- **Documentation generated with AI assistance:** ~80%
+- **AI tools used:** Claude (Anthropic)
+- **Code generated with AI assistance:** ~40-60%
+- **Documentation generated with AI assistance:** ~50%
 - **Problem-solving speed:** 3-5x faster with AI assistance
 
 ---
@@ -33,27 +33,6 @@ As the DevOps engineer for the SolarSense platform, I leveraged AI tools extensi
 
 **Usage frequency:** Daily, 2-4 hours per day
 
----
-
-### 2. ChatGPT (OpenAI)
-**Primary use:** Quick code snippets, command reference, error debugging
-
-**Why chosen:**
-- Fast responses for simple queries
-- Good for command-line syntax
-- Helpful for error message interpretation
-
-**Usage frequency:** As needed, 30-60 min per day
-
----
-
-### 3. GitHub Copilot
-**Primary use:** In-IDE code assistance, configuration file generation
-
-**Why chosen:**
-- Contextual suggestions while writing
-- Good for repetitive configuration patterns
-- Integrated into VS Code workflow
 
 **Usage frequency:** Continuous during coding sessions
 
