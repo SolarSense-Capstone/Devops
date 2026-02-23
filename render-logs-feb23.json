@@ -1,0 +1,788 @@
+[
+  {
+    "timestamp": "2026-02-23T04:04:33.329356709Z 2026-02-23T04:04:33.329Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T04:09:36.400794558Z 2026-02-23T04:09:36.400Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T04:14:39.984261508Z 2026-02-23T04:14:39.984Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T04:19:44.885383557Z 2026-02-23T04:19:44.878Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T04:24:54.6819153Z 2026-02-23T04:24:54.681Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T04:29:59.979084518Z 2026-02-23T04:29:59.978Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T04:35:08.214935608Z 2026-02-23T04:35:08.214Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T04:40:12.165754408Z 2026-02-23T04:40:12.165Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T04:45:16.472371979Z 2026-02-23T04:45:16.472Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T04:50:21.037974214Z 2026-02-23T04:50:21.030Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T04:55:27.885413387Z 2026-02-23T04:55:27.863Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T05:00:33.456276698Z 2026-02-23T05:00:33.455Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T05:05:39.928758226Z 2026-02-23T05:05:39.927Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T05:10:45.67394101Z 2026-02-23T05:10:45.673Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T05:15:49.231025416Z 2026-02-23T05:15:49.230Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T05:20:53.408459574Z 2026-02-23T05:20:53.408Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T05:25:57.836221423Z 2026-02-23T05:25:57.835Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T05:31:00.764156733Z 2026-02-23T05:31:00.762Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T05:36:08.814196922Z 2026-02-23T05:36:08.811Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T05:41:13.998849762Z 2026-02-23T05:41:13.998Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T05:46:23.951904709Z 2026-02-23T05:46:23.951Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T05:51:36.370269893Z 2026-02-23T05:51:36.370Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.110.2"
+  },
+  {
+    "timestamp": "2026-02-23T05:56:40.748249844Z 2026-02-23T05:56:40.748Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T06:01:44.841744197Z 2026-02-23T06:01:44.841Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T06:06:48.581959804Z 2026-02-23T06:06:48.581Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T06:11:53.009484595Z 2026-02-23T06:11:53.009Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T06:17:00.148107916Z 2026-02-23T06:17:00.146Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T06:22:05.429140013Z 2026-02-23T06:22:05.428Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T06:27:10.395747462Z 2026-02-23T06:27:10.395Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T06:32:16.497126714Z 2026-02-23T06:32:16.496Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T06:37:21.079203284Z 2026-02-23T06:37:21.078Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T06:42:26.567858813Z 2026-02-23T06:42:26.566Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T06:42:29.695739481Z 2026-02-23T06:42:29.695Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T06:42:30.439272141Z 2026-02-23T06:42:30.439Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T06:45:18.625142725Z 2026-02-23T06:45:18.624Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T06:47:29.789018251Z 2026-02-23T06:47:29.787Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T06:49:13.446925276Z 2026-02-23T06:49:13.446Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T06:52:34.331542538Z 2026-02-23T06:52:34.331Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T06:52:48.50229607Z 2026-02-23T06:52:48.502Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T06:57:41.102985308Z 2026-02-23T06:57:41.102Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T07:02:46.322881523Z 2026-02-23T07:02:46.322Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T07:07:51.138372633Z 2026-02-23T07:07:51.138Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T07:11:04.697186486Z 2026-02-23T07:11:04.696Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T07:11:04.994241219Z 2026-02-23T07:11:04.986Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T07:12:56.158528944Z 2026-02-23T07:12:56.158Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T07:18:00.787734541Z 2026-02-23T07:18:00.787Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T07:23:05.299271209Z 2026-02-23T07:23:05.299Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T07:28:09.351350361Z 2026-02-23T07:28:09.351Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T07:32:45.927410086Z 2026-02-23T07:32:45.926Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T07:32:45.945210357Z 2026-02-23T07:32:45.943Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T07:33:18.352355499Z 2026-02-23T07:33:18.350Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T07:38:27.842239031Z 2026-02-23T07:38:27.842Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T07:39:32.871603135Z 2026-02-23T07:39:32.871Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T07:39:32.895623006Z 2026-02-23T07:39:32.895Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T07:43:33.366626495Z 2026-02-23T07:43:33.365Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T07:48:37.80986187Z 2026-02-23T07:48:37.809Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T07:53:41.871548832Z 2026-02-23T07:53:41.871Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T07:55:28.060298897Z 2026-02-23T07:55:28.060Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T07:55:28.271019098Z 2026-02-23T07:55:28.270Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T07:58:45.355826415Z 2026-02-23T07:58:45.355Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T08:03:50.180838584Z 2026-02-23T08:03:50.180Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T08:05:24.701141526Z 2026-02-23T08:05:24.700Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T08:05:24.710033432Z 2026-02-23T08:05:24.709Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T08:08:53.987679225Z 2026-02-23T08:08:53.987Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T08:11:26.209168707Z 2026-02-23T08:11:26.208Z",
+    "method": "HEAD",
+    "endpoint": "/",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T08:11:27.572918293Z 2026-02-23T08:11:27.572Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T08:11:41.444828451Z 2026-02-23T08:11:41.444Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T08:14:06.036930578Z 2026-02-23T08:14:06.036Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T08:19:11.399630655Z 2026-02-23T08:19:11.399Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T08:24:18.614463056Z 2026-02-23T08:24:18.614Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T08:24:42.556939523Z 2026-02-23T08:24:42.556Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T08:24:42.678974892Z 2026-02-23T08:24:42.678Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T08:29:29.290912426Z 2026-02-23T08:29:29.290Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T08:34:33.990522001Z 2026-02-23T08:34:33.990Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T08:39:38.679187363Z 2026-02-23T08:39:38.678Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T08:44:48.151810945Z 2026-02-23T08:44:48.151Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T08:49:52.32773542Z 2026-02-23T08:49:52.327Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T08:54:57.706914447Z 2026-02-23T08:54:57.706Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T08:59:46.882477648Z 2026-02-23T08:59:46.881Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:00:01.26875502Z 2026-02-23T09:00:01.268Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:01:28.574931963Z 2026-02-23T09:01:28.574Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:01:28.860228951Z 2026-02-23T09:01:28.860Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T09:04:57.760863352Z 2026-02-23T09:04:57.760Z",
+    "method": "GET",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T09:04:58.957468005Z 2026-02-23T09:04:58.957Z",
+    "method": "GET",
+    "endpoint": "/favicon.ico",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T09:05:06.230789375Z 2026-02-23T09:05:06.230Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:10:11.055242817Z 2026-02-23T09:10:11.054Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:15:16.179383174Z 2026-02-23T09:15:16.179Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T09:17:40.117991869Z 2026-02-23T09:17:40.117Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:17:40.151422314Z 2026-02-23T09:17:40.122Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T09:20:19.938137775Z 2026-02-23T09:20:19.937Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T09:25:23.567532196Z 2026-02-23T09:25:23.566Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:30:30.873633084Z 2026-02-23T09:30:30.873Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T09:35:37.96680835Z 2026-02-23T09:35:37.966Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T09:40:45.545773158Z 2026-02-23T09:40:45.545Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T09:45:49.956693342Z 2026-02-23T09:45:49.955Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T09:50:56.964910985Z 2026-02-23T09:50:56.964Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T09:56:01.927416801Z 2026-02-23T09:56:01.925Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T09:56:25.107089724Z 2026-02-23T09:56:25.106Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T09:56:28.548245305Z 2026-02-23T09:56:28.548Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T09:56:28.801751114Z 2026-02-23T09:56:28.801Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T10:01:11.690044865Z 2026-02-23T10:01:11.689Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T10:06:16.351554341Z 2026-02-23T10:06:16.351Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T10:11:20.605868344Z 2026-02-23T10:11:20.605Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T10:16:23.875431866Z 2026-02-23T10:16:23.875Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T10:21:30.355884386Z 2026-02-23T10:21:30.355Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T10:22:35.966566329Z 2026-02-23T10:22:35.966Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T10:26:34.305020535Z 2026-02-23T10:26:34.304Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T10:31:39.030463103Z 2026-02-23T10:31:39.030Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T10:35:32.001724699Z 2026-02-23T10:35:32.001Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T10:35:32.691672053Z 2026-02-23T10:35:32.686Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T10:35:40.928001841Z 2026-02-23T10:35:40.927Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T10:35:44.471144751Z 2026-02-23T10:35:44.470Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T10:35:45.926782504Z 2026-02-23T10:35:45.926Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T10:35:46.242465252Z 2026-02-23T10:35:46.241Z",
+    "method": "GET",
+    "endpoint": "/",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T10:36:45.860965353Z 2026-02-23T10:36:45.860Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T10:41:51.005833419Z 2026-02-23T10:41:51.005Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T10:46:54.968173944Z 2026-02-23T10:46:54.966Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.16.20.67"
+  },
+  {
+    "timestamp": "2026-02-23T10:51:59.620515216Z 2026-02-23T10:51:59.620Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T10:57:05.376900147Z 2026-02-23T10:57:05.376Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T11:02:11.098182595Z 2026-02-23T11:02:11.097Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T11:07:15.739239969Z 2026-02-23T11:07:15.739Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T11:12:18.733962403Z 2026-02-23T11:12:18.732Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T11:13:34.099154946Z 2026-02-23T11:13:34.098Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T11:17:23.5247286Z 2026-02-23T11:17:23.524Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T11:20:49.199962108Z 2026-02-23T11:20:49.199Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T11:21:42.563696473Z 2026-02-23T11:21:42.563Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.17.49.1"
+  },
+  {
+    "timestamp": "2026-02-23T11:22:27.625454105Z 2026-02-23T11:22:27.625Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T11:27:34.86388307Z 2026-02-23T11:27:34.863Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T11:32:40.756637001Z 2026-02-23T11:32:40.755Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.17.200.68"
+  },
+  {
+    "timestamp": "2026-02-23T11:37:44.079144092Z 2026-02-23T11:37:44.077Z",
+    "method": "HEAD",
+    "endpoint": "/health",
+    "ip": "10.20.239.2"
+  },
+  {
+    "timestamp": "2026-02-23T11:41:27.433430557Z 2026-02-23T11:41:27.433Z",
+    "method": "POST",
+    "endpoint": "/api/v1/assessments/analyze",
+    "ip": "10.20.239.2"
+  }
+]

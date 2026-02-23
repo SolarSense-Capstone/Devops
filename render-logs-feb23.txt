@@ -1,0 +1,2000 @@
+2026-02-23T04:04:33.329356709Z 2026-02-23T04:04:33.329Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T04:04:33.329807528Z 10.20.239.2 - - [23/Feb/2026:04:04:33 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:09:36.400794558Z 2026-02-23T04:09:36.400Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T04:09:36.401501133Z 10.16.20.67 - - [23/Feb/2026:04:09:36 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:14:39.984261508Z 2026-02-23T04:14:39.984Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T04:14:39.984915691Z 10.16.20.67 - - [23/Feb/2026:04:14:39 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:19:44.885383557Z 2026-02-23T04:19:44.878Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T04:19:44.885405647Z 10.16.20.67 - - [23/Feb/2026:04:19:44 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:24:54.6819153Z 2026-02-23T04:24:54.681Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T04:24:54.774009667Z 10.17.200.68 - - [23/Feb/2026:04:24:54 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:29:59.979084518Z 2026-02-23T04:29:59.978Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T04:29:59.983114571Z 10.17.200.68 - - [23/Feb/2026:04:29:59 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:35:08.214935608Z 2026-02-23T04:35:08.214Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T04:35:08.215336026Z 10.20.239.2 - - [23/Feb/2026:04:35:08 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:40:12.165754408Z 2026-02-23T04:40:12.165Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T04:40:12.166437512Z 10.17.49.1 - - [23/Feb/2026:04:40:12 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:45:16.472371979Z 2026-02-23T04:45:16.472Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T04:45:16.47440786Z 10.16.20.67 - - [23/Feb/2026:04:45:16 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:50:21.037974214Z 2026-02-23T04:50:21.030Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T04:50:21.038002774Z 10.17.49.1 - - [23/Feb/2026:04:50:21 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T04:55:27.885413387Z 2026-02-23T04:55:27.863Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T04:55:27.88608266Z 10.17.49.1 - - [23/Feb/2026:04:55:27 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:00:33.456276698Z 2026-02-23T05:00:33.455Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T05:00:33.456306139Z 10.16.20.67 - - [23/Feb/2026:05:00:33 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:05:39.928758226Z 2026-02-23T05:05:39.927Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T05:05:39.928783746Z 10.16.20.67 - - [23/Feb/2026:05:05:39 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:10:45.67394101Z 2026-02-23T05:10:45.673Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T05:10:45.674703676Z 10.20.239.2 - - [23/Feb/2026:05:10:45 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:15:49.231025416Z 2026-02-23T05:15:49.230Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T05:15:49.262915458Z 10.17.200.68 - - [23/Feb/2026:05:15:49 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:20:53.408459574Z 2026-02-23T05:20:53.408Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T05:20:53.408902593Z 10.20.239.2 - - [23/Feb/2026:05:20:53 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:25:57.836221423Z 2026-02-23T05:25:57.835Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T05:25:57.836766974Z 10.16.20.67 - - [23/Feb/2026:05:25:57 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:31:00.764156733Z 2026-02-23T05:31:00.762Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T05:31:00.764191274Z 10.17.49.1 - - [23/Feb/2026:05:31:00 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:36:08.814196922Z 2026-02-23T05:36:08.811Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T05:36:08.814220823Z 10.20.239.2 - - [23/Feb/2026:05:36:08 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:41:13.998849762Z 2026-02-23T05:41:13.998Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T05:41:13.999471055Z 10.16.20.67 - - [23/Feb/2026:05:41:13 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:46:23.951904709Z 2026-02-23T05:46:23.951Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T05:46:23.951930989Z 10.16.20.67 - - [23/Feb/2026:05:46:23 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:51:36.370269893Z 2026-02-23T05:51:36.370Z - HEAD /health - IP: 10.16.110.2
+2026-02-23T05:51:36.370729993Z 10.16.110.2 - - [23/Feb/2026:05:51:36 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T05:56:40.748249844Z 2026-02-23T05:56:40.748Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T05:56:40.748745594Z 10.20.239.2 - - [23/Feb/2026:05:56:40 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:01:44.841744197Z 2026-02-23T06:01:44.841Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T06:01:44.852445045Z 10.16.20.67 - - [23/Feb/2026:06:01:44 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:06:48.581959804Z 2026-02-23T06:06:48.581Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T06:06:48.582486805Z 10.16.20.67 - - [23/Feb/2026:06:06:48 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:11:53.009484595Z 2026-02-23T06:11:53.009Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T06:11:53.009934754Z 10.17.200.68 - - [23/Feb/2026:06:11:53 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:17:00.148107916Z 2026-02-23T06:17:00.146Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T06:17:00.148135557Z 10.17.49.1 - - [23/Feb/2026:06:17:00 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:22:05.429140013Z 2026-02-23T06:22:05.428Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T06:22:05.429167364Z 10.17.200.68 - - [23/Feb/2026:06:22:05 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:27:10.395747462Z 2026-02-23T06:27:10.395Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T06:27:10.396265143Z 10.17.49.1 - - [23/Feb/2026:06:27:10 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:32:16.497126714Z 2026-02-23T06:32:16.496Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T06:32:16.497290127Z 10.16.20.67 - - [23/Feb/2026:06:32:16 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:37:21.079203284Z 2026-02-23T06:37:21.078Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T06:37:21.079618953Z 10.17.49.1 - - [23/Feb/2026:06:37:21 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:42:26.567858813Z 2026-02-23T06:42:26.566Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T06:42:26.567888244Z 10.20.239.2 - - [23/Feb/2026:06:42:26 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:42:29.695739481Z 2026-02-23T06:42:29.695Z - POST /api/v1/assessments/analyze - IP: 10.16.20.67
+2026-02-23T06:42:29.869382829Z [COMPUTE] Starting assessment computation: {
+2026-02-23T06:42:29.869403089Z   businessType: 'Bakery',
+2026-02-23T06:42:29.869408399Z   location: 'Surulere, Nigeria',
+2026-02-23T06:42:29.869413359Z   uses_diesel: true,
+2026-02-23T06:42:29.869417459Z   simulate_model4_failure: false,
+2026-02-23T06:42:29.86942165Z   simulate_deep_failure: false
+2026-02-23T06:42:29.86942567Z }
+2026-02-23T06:42:29.870572923Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T06:42:29.870598744Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T06:42:29.870608214Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T06:42:29.870612434Z   business_name: 'Jays Kitchen',
+2026-02-23T06:42:29.870615714Z   business_type: 'Bakery',
+2026-02-23T06:42:29.870619374Z   uses_diesel: true
+2026-02-23T06:42:29.870622654Z }
+2026-02-23T06:42:30.439272141Z 2026-02-23T06:42:30.439Z - POST /api/v1/assessments/analyze - IP: 10.17.200.68
+2026-02-23T06:42:30.442567859Z [COMPUTE] Starting assessment computation: {
+2026-02-23T06:42:30.44259844Z   businessType: 'Bakery',
+2026-02-23T06:42:30.44260204Z   location: 'Surulere, Nigeria',
+2026-02-23T06:42:30.44260554Z   uses_diesel: true,
+2026-02-23T06:42:30.44260864Z   simulate_model4_failure: false,
+2026-02-23T06:42:30.44261138Z   simulate_deep_failure: false
+2026-02-23T06:42:30.44261419Z }
+2026-02-23T06:42:30.444886396Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T06:42:30.444913977Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T06:42:30.444918447Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T06:42:30.444921737Z   business_name: 'Jays Kitchen',
+2026-02-23T06:42:30.444927977Z   business_type: 'Bakery',
+2026-02-23T06:42:30.444931348Z   uses_diesel: true
+2026-02-23T06:42:30.444933828Z }
+2026-02-23T06:42:30.639994907Z [COMPUTE] ========================================
+2026-02-23T06:42:30.640009157Z [Model 4] DSE analyze failed: {
+2026-02-23T06:42:30.640020207Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T06:42:30.640023777Z [COMPUTE] ========================================
+2026-02-23T06:42:30.640032697Z   status: 400,
+2026-02-23T06:42:30.640036788Z   message: 'Request failed with status code 400',
+2026-02-23T06:42:30.640039957Z   data: {
+2026-02-23T06:42:30.640043058Z     error: 'Bad Request',
+2026-02-23T06:42:30.640047098Z     message: "Invalid equipment_type: 'display_chiller'. Must be one of the allowed types."
+2026-02-23T06:42:30.640051168Z   },
+2026-02-23T06:42:30.640054448Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T06:42:30.640057068Z }
+2026-02-23T06:42:30.640060038Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T06:42:30.640675831Z [FALLBACK] ========================================
+2026-02-23T06:42:30.640687241Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T06:42:30.640691271Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T06:42:30.640703141Z [FALLBACK] ========================================
+2026-02-23T06:42:30.640897355Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T06:42:30.641097019Z [FALLBACK] Model 1 payload: {
+2026-02-23T06:42:30.64110679Z   business_type: 'butchery',
+2026-02-23T06:42:30.64111019Z   sqft_m2: 60,
+2026-02-23T06:42:30.64111301Z   operating_hours_weekly: 84,
+2026-02-23T06:42:30.6411158Z   num_refrigeration_units: 5
+2026-02-23T06:42:30.64111857Z }
+2026-02-23T06:42:30.641980668Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T06:42:30.641986698Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T06:42:30.641990478Z   business_type: 'butchery'
+2026-02-23T06:42:30.641993648Z }
+2026-02-23T06:42:30.68675275Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 244.75 }
+2026-02-23T06:42:30.686898393Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 244.75 }
+2026-02-23T06:42:30.686972784Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T06:42:30.687093777Z [FALLBACK] Model 2 payload: { latitude: 6.4969, longitude: 3.3553, include_lifetime: true }
+2026-02-23T06:42:30.688101268Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T06:42:30.688111298Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T06:42:30.688114508Z   latitude: 6.4969,
+2026-02-23T06:42:30.688116908Z   longitude: 3.3553
+2026-02-23T06:42:30.688119388Z }
+2026-02-23T06:42:30.74496591Z [Model 2] DSE response received: {
+2026-02-23T06:42:30.74498438Z   year_1_generation_kwh: 3496.2765773137407,
+2026-02-23T06:42:30.74498842Z   has_lifetime_prediction: true
+2026-02-23T06:42:30.74499147Z }
+2026-02-23T06:42:30.745035581Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T06:42:30.745039501Z   baseGeneration10m2: 3496.2765773137407,
+2026-02-23T06:42:30.745042411Z   has_lifetime_prediction: true
+2026-02-23T06:42:30.745045421Z }
+2026-02-23T06:42:30.745049521Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T06:42:30.745154393Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T06:42:30.745162114Z   target_coverage: '90%',
+2026-02-23T06:42:30.745165234Z   scaling_factor: '1.00',
+2026-02-23T06:42:30.745168104Z   recommended_panel_area_m2: '10.0',
+2026-02-23T06:42:30.745171084Z   predicted_generation_kwh: 3496,
+2026-02-23T06:42:30.745175144Z   system_cost: 6000
+2026-02-23T06:42:30.745178344Z }
+2026-02-23T06:42:30.745182094Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T06:42:30.745217105Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T06:42:30.745286926Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T06:42:30.745291576Z   diesel_fraction: '0.50',
+2026-02-23T06:42:30.745294576Z   diesel_kwh_monthly: 122,
+2026-02-23T06:42:30.745297766Z   diesel_liters_monthly: '49.0',
+2026-02-23T06:42:30.745300716Z   diesel_fuel_cost: 89,
+2026-02-23T06:42:30.745303716Z   diesel_maintenance_cost: 180,
+2026-02-23T06:42:30.745306437Z   blended_tariff: '1.17',
+2026-02-23T06:42:30.745309857Z   total_monthly_cost: 288
+2026-02-23T06:42:30.745312977Z }
+2026-02-23T06:42:30.745316017Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T06:42:30.745369998Z [FALLBACK] Model 3 payload: {
+2026-02-23T06:42:30.745374118Z   consumption_kwh: 244.75,
+2026-02-23T06:42:30.745376908Z   generation_kwh: 3496,
+2026-02-23T06:42:30.745380058Z   tariff_per_kwh: 1.1748168005855766,
+2026-02-23T06:42:30.745382838Z   system_cost_usd: 6000
+2026-02-23T06:42:30.745385738Z }
+2026-02-23T06:42:30.745587952Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T06:42:30.745592552Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T06:42:30.745595732Z   consumption_kwh: 244.75,
+2026-02-23T06:42:30.745598692Z   generation_kwh: 3496.2765773137407
+2026-02-23T06:42:30.745604083Z }
+2026-02-23T06:42:30.786120158Z [Model 3] DSE response received: { monthly_savings_usd: 287.54, roi_percentage: 57.51 }
+2026-02-23T06:42:30.786139058Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '287.54', roi_percentage: '57.5' }
+2026-02-23T06:42:30.786143548Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T06:42:30.786146908Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T06:42:30.786150188Z   roi_score: '50.0',
+2026-02-23T06:42:30.786153188Z   coverage_score: '30.0',
+2026-02-23T06:42:30.786155588Z   savings_score: '11.5',
+2026-02-23T06:42:30.786158138Z   viability_score: '91.5',
+2026-02-23T06:42:30.786170608Z   recommendation: 'High',
+2026-02-23T06:42:30.786173368Z   status: 'HIGHLY VIABLE'
+2026-02-23T06:42:30.786175769Z }
+2026-02-23T06:42:30.786178229Z [FALLBACK] ========================================
+2026-02-23T06:42:30.786183129Z [FALLBACK] Fallback assessment complete
+2026-02-23T06:42:30.786185649Z [FALLBACK] Final results: {
+2026-02-23T06:42:30.786188289Z   source: 'BACKEND_FALLBACK',
+2026-02-23T06:42:30.786190879Z   deep_fallback_used: false,
+2026-02-23T06:42:30.786193269Z   viability_score: 91.5,
+2026-02-23T06:42:30.786195869Z   status: 'HIGHLY VIABLE',
+2026-02-23T06:42:30.786198309Z   recommendation: 'High',
+2026-02-23T06:42:30.786200839Z   energy_scenario: 'diesel_replacement',
+2026-02-23T06:42:30.786203169Z   has_lifetime_prediction: true
+2026-02-23T06:42:30.786205799Z }
+2026-02-23T06:42:30.786208209Z [FALLBACK] ========================================
+2026-02-23T06:42:30.786217749Z [ANALYZE] Analysis complete: {
+2026-02-23T06:42:30.78622052Z   source: 'BACKEND_FALLBACK',
+2026-02-23T06:42:30.786222989Z   business_name: 'Jays Kitchen',
+2026-02-23T06:42:30.7862258Z   viability_score: 91.5,
+2026-02-23T06:42:30.78622824Z   status: 'HIGHLY VIABLE'
+2026-02-23T06:42:30.78623071Z }
+2026-02-23T06:42:30.787018956Z 10.16.20.67 - - [23/Feb/2026:06:42:30 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6652 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T06:42:30.809342836Z [COMPUTE] ========================================
+2026-02-23T06:42:30.809361496Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T06:42:30.809364456Z [COMPUTE] ========================================
+2026-02-23T06:42:30.809367186Z [FALLBACK] ========================================
+2026-02-23T06:42:30.809369597Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T06:42:30.809372566Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T06:42:30.809375166Z [FALLBACK] ========================================
+2026-02-23T06:42:30.809378407Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T06:42:30.809381467Z [FALLBACK] Model 1 payload: {
+2026-02-23T06:42:30.809383967Z   business_type: 'butchery',
+2026-02-23T06:42:30.809386387Z   sqft_m2: 60,
+2026-02-23T06:42:30.809388777Z   operating_hours_weekly: 84,
+2026-02-23T06:42:30.809391117Z   num_refrigeration_units: 5
+2026-02-23T06:42:30.809393457Z }
+2026-02-23T06:42:30.809396037Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T06:42:30.809397057Z [Model 4] DSE analyze failed: {
+2026-02-23T06:42:30.809399337Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T06:42:30.809405157Z   status: 400,
+2026-02-23T06:42:30.809420087Z   message: 'Request failed with status code 400',
+2026-02-23T06:42:30.809423647Z   data: {
+2026-02-23T06:42:30.809426528Z     error: 'Bad Request',
+2026-02-23T06:42:30.809430008Z     message: "Invalid equipment_type: 'display_chiller'. Must be one of the allowed types."
+2026-02-23T06:42:30.809432928Z   },
+2026-02-23T06:42:30.809436208Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T06:42:30.809438848Z }
+2026-02-23T06:42:30.809441388Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T06:42:30.809448218Z   business_type: 'butchery'
+2026-02-23T06:42:30.809450968Z }
+2026-02-23T06:42:31.018650449Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 244.75 }
+2026-02-23T06:42:31.018685739Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 244.75 }
+2026-02-23T06:42:31.018702319Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T06:42:31.01870657Z [FALLBACK] Model 2 payload: { latitude: 6.4969, longitude: 3.3553, include_lifetime: true }
+2026-02-23T06:42:31.01870996Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T06:42:31.01871271Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T06:42:31.01871601Z   latitude: 6.4969,
+2026-02-23T06:42:31.01871864Z   longitude: 3.3553
+2026-02-23T06:42:31.01872123Z }
+2026-02-23T06:42:31.242788597Z [Model 2] DSE response received: {
+2026-02-23T06:42:31.244756857Z   year_1_generation_kwh: 3496.2765773137407,
+2026-02-23T06:42:31.244766468Z   has_lifetime_prediction: true
+2026-02-23T06:42:31.244770848Z }
+2026-02-23T06:42:31.244791598Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T06:42:31.244795048Z   baseGeneration10m2: 3496.2765773137407,
+2026-02-23T06:42:31.244798208Z   has_lifetime_prediction: true
+2026-02-23T06:42:31.244804138Z }
+2026-02-23T06:42:31.244808058Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T06:42:31.244820958Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T06:42:31.244824379Z   target_coverage: '90%',
+2026-02-23T06:42:31.244827399Z   scaling_factor: '1.00',
+2026-02-23T06:42:31.244830449Z   recommended_panel_area_m2: '10.0',
+2026-02-23T06:42:31.244833509Z   predicted_generation_kwh: 3496,
+2026-02-23T06:42:31.244837289Z   system_cost: 6000
+2026-02-23T06:42:31.244840689Z }
+2026-02-23T06:42:31.244844689Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T06:42:31.244847929Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T06:42:31.244851079Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T06:42:31.244854169Z   diesel_fraction: '0.50',
+2026-02-23T06:42:31.244857299Z   diesel_kwh_monthly: 122,
+2026-02-23T06:42:31.244860429Z   diesel_liters_monthly: '49.0',
+2026-02-23T06:42:31.244863599Z   diesel_fuel_cost: 89,
+2026-02-23T06:42:31.24486701Z   diesel_maintenance_cost: 180,
+2026-02-23T06:42:31.24487017Z   blended_tariff: '1.17',
+2026-02-23T06:42:31.2448733Z   total_monthly_cost: 288
+2026-02-23T06:42:31.24487634Z }
+2026-02-23T06:42:31.24487943Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T06:42:31.24488261Z [FALLBACK] Model 3 payload: {
+2026-02-23T06:42:31.24488567Z   consumption_kwh: 244.75,
+2026-02-23T06:42:31.24488879Z   generation_kwh: 3496,
+2026-02-23T06:42:31.24489201Z   tariff_per_kwh: 1.1748168005855766,
+2026-02-23T06:42:31.24489544Z   system_cost_usd: 6000
+2026-02-23T06:42:31.24489847Z }
+2026-02-23T06:42:31.2449016Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T06:42:31.24490473Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T06:42:31.2449078Z   consumption_kwh: 244.75,
+2026-02-23T06:42:31.244910931Z   generation_kwh: 3496.2765773137407
+2026-02-23T06:42:31.24491402Z }
+2026-02-23T06:42:31.451340104Z [Model 3] DSE response received: { monthly_savings_usd: 287.54, roi_percentage: 57.51 }
+2026-02-23T06:42:31.451363374Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '287.54', roi_percentage: '57.5' }
+2026-02-23T06:42:31.451368994Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T06:42:31.451373894Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T06:42:31.451378534Z   roi_score: '50.0',
+2026-02-23T06:42:31.451383055Z   coverage_score: '30.0',
+2026-02-23T06:42:31.451387035Z   savings_score: '11.5',
+2026-02-23T06:42:31.451391345Z   viability_score: '91.5',
+2026-02-23T06:42:31.451407865Z   recommendation: 'High',
+2026-02-23T06:42:31.451411305Z   status: 'HIGHLY VIABLE'
+2026-02-23T06:42:31.451414195Z }
+2026-02-23T06:42:31.451417095Z [FALLBACK] ========================================
+2026-02-23T06:42:31.451419855Z [FALLBACK] Fallback assessment complete
+2026-02-23T06:42:31.451422606Z [FALLBACK] Final results: {
+2026-02-23T06:42:31.451425246Z   source: 'BACKEND_FALLBACK',
+2026-02-23T06:42:31.451428015Z   deep_fallback_used: false,
+2026-02-23T06:42:31.451430666Z   viability_score: 91.5,
+2026-02-23T06:42:31.451433286Z   status: 'HIGHLY VIABLE',
+2026-02-23T06:42:31.451436006Z   recommendation: 'High',
+2026-02-23T06:42:31.451438616Z   energy_scenario: 'diesel_replacement',
+2026-02-23T06:42:31.451441356Z   has_lifetime_prediction: true
+2026-02-23T06:42:31.451443926Z }
+2026-02-23T06:42:31.451446416Z [FALLBACK] ========================================
+2026-02-23T06:42:31.451449116Z [ANALYZE] Analysis complete: {
+2026-02-23T06:42:31.451451566Z   source: 'BACKEND_FALLBACK',
+2026-02-23T06:42:31.451454136Z   business_name: 'Jays Kitchen',
+2026-02-23T06:42:31.451456636Z   viability_score: 91.5,
+2026-02-23T06:42:31.451459356Z   status: 'HIGHLY VIABLE'
+2026-02-23T06:42:31.451461996Z }
+2026-02-23T06:42:31.451473376Z 10.17.200.68 - - [23/Feb/2026:06:42:31 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6652 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T06:45:18.625142725Z 2026-02-23T06:45:18.624Z - POST /api/v1/assessments/analyze - IP: 10.17.200.68
+2026-02-23T06:45:18.674647885Z [COMPUTE] Starting assessment computation: {
+2026-02-23T06:45:18.674667955Z   businessType: 'mini_supermarket',
+2026-02-23T06:45:18.674673195Z   location: 'Surulere, Nigeria',
+2026-02-23T06:45:18.674677845Z   uses_diesel: false,
+2026-02-23T06:45:18.674681725Z   simulate_model4_failure: false,
+2026-02-23T06:45:18.674685726Z   simulate_deep_failure: false
+2026-02-23T06:45:18.674689676Z }
+2026-02-23T06:45:18.674704676Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T06:45:18.674708786Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T06:45:18.674713246Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T06:45:18.674717156Z   business_name: 'Kafec',
+2026-02-23T06:45:18.674721026Z   business_type: 'mini_supermarket',
+2026-02-23T06:45:18.674724926Z   uses_diesel: false
+2026-02-23T06:45:18.674729306Z }
+2026-02-23T06:45:18.753412867Z [Model 4] DSE analyze failed: {
+2026-02-23T06:45:18.753435408Z   status: 400,
+2026-02-23T06:45:18.753441838Z   message: 'Request failed with status code 400',
+2026-02-23T06:45:18.753447218Z   data: {
+2026-02-23T06:45:18.753451128Z [COMPUTE] ========================================
+2026-02-23T06:45:18.753452568Z     error: 'Bad Request',
+2026-02-23T06:45:18.753459199Z     message: "Invalid equipment_type: 'ice_machine'. Must be one of the allowed types."
+2026-02-23T06:45:18.753464588Z   },
+2026-02-23T06:45:18.753470339Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T06:45:18.753475549Z }
+2026-02-23T06:45:18.753480729Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T06:45:18.753493069Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T06:45:18.753497619Z [COMPUTE] ========================================
+2026-02-23T06:45:18.753509349Z [FALLBACK] ========================================
+2026-02-23T06:45:18.75351738Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T06:45:18.75353547Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T06:45:18.75353899Z [FALLBACK] ========================================
+2026-02-23T06:45:18.753660332Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T06:45:18.753738984Z [FALLBACK] Model 1 payload: {
+2026-02-23T06:45:18.753744304Z   business_type: 'mini_supermarket',
+2026-02-23T06:45:18.753747914Z   sqft_m2: 80,
+2026-02-23T06:45:18.753751485Z   operating_hours_weekly: 82.25,
+2026-02-23T06:45:18.753754814Z   num_refrigeration_units: 10
+2026-02-23T06:45:18.753758174Z }
+2026-02-23T06:45:18.753766165Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T06:45:18.753772885Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T06:45:18.753776135Z   business_type: 'mini_supermarket'
+2026-02-23T06:45:18.753778905Z }
+2026-02-23T06:45:18.793161116Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 427.25 }
+2026-02-23T06:45:18.793203857Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 427.25 }
+2026-02-23T06:45:18.793207847Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T06:45:18.793303119Z [FALLBACK] Model 2 payload: { latitude: 6.4969, longitude: 3.3553, include_lifetime: true }
+2026-02-23T06:45:18.7933495Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T06:45:18.79335352Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T06:45:18.79335722Z   latitude: 6.4969,
+2026-02-23T06:45:18.79335935Z   longitude: 3.3553
+2026-02-23T06:45:18.79336137Z }
+2026-02-23T06:45:18.845697819Z [Model 2] DSE response received: {
+2026-02-23T06:45:18.845715559Z   year_1_generation_kwh: 3496.2765773137407,
+2026-02-23T06:45:18.845719479Z   has_lifetime_prediction: true
+2026-02-23T06:45:18.845722159Z }
+2026-02-23T06:45:18.845731699Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T06:45:18.845734749Z   baseGeneration10m2: 3496.2765773137407,
+2026-02-23T06:45:18.845737569Z   has_lifetime_prediction: true
+2026-02-23T06:45:18.8457401Z }
+2026-02-23T06:45:18.845743249Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T06:45:18.845840262Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T06:45:18.845847882Z   target_coverage: '90%',
+2026-02-23T06:45:18.845851172Z   scaling_factor: '1.00',
+2026-02-23T06:45:18.845854172Z   recommended_panel_area_m2: '10.0',
+2026-02-23T06:45:18.845857412Z   predicted_generation_kwh: 3496,
+2026-02-23T06:45:18.845861202Z   system_cost: 6000
+2026-02-23T06:45:18.845864532Z }
+2026-02-23T06:45:18.845868022Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T06:45:18.845873192Z [FALLBACK] Grid-only scenario, skipping diesel economics
+2026-02-23T06:45:18.845876142Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T06:45:18.845891283Z [FALLBACK] Model 3 payload: {
+2026-02-23T06:45:18.845896113Z   consumption_kwh: 427.25,
+2026-02-23T06:45:18.845899573Z   generation_kwh: 3496,
+2026-02-23T06:45:18.845901973Z   tariff_per_kwh: 0.15,
+2026-02-23T06:45:18.845919283Z   system_cost_usd: 6000
+2026-02-23T06:45:18.845922753Z }
+2026-02-23T06:45:18.845971194Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T06:45:18.845976554Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T06:45:18.845980054Z   consumption_kwh: 427.25,
+2026-02-23T06:45:18.845983305Z   generation_kwh: 3496.2765773137407
+2026-02-23T06:45:18.845986514Z }
+2026-02-23T06:45:18.884154901Z [Model 3] DSE response received: { monthly_savings_usd: 64.09, roi_percentage: 12.82 }
+2026-02-23T06:45:18.88604627Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '64.09', roi_percentage: '12.8' }
+2026-02-23T06:45:18.88606451Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T06:45:18.886087311Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T06:45:18.886091021Z   roi_score: '26.7',
+2026-02-23T06:45:18.886094361Z   coverage_score: '30.0',
+2026-02-23T06:45:18.886096941Z   savings_score: '2.6',
+2026-02-23T06:45:18.886099641Z   viability_score: '59.3',
+2026-02-23T06:45:18.886102691Z   recommendation: 'Medium',
+2026-02-23T06:45:18.886105701Z   status: 'MODERATELY VIABLE'
+2026-02-23T06:45:18.886108631Z }
+2026-02-23T06:45:18.886111711Z [FALLBACK] ========================================
+2026-02-23T06:45:18.886114601Z [FALLBACK] Fallback assessment complete
+2026-02-23T06:45:18.886117592Z [FALLBACK] Final results: {
+2026-02-23T06:45:18.886120421Z   source: 'BACKEND_FALLBACK',
+2026-02-23T06:45:18.886123272Z   deep_fallback_used: false,
+2026-02-23T06:45:18.886126172Z   viability_score: 59.3,
+2026-02-23T06:45:18.886129022Z   status: 'MODERATELY VIABLE',
+2026-02-23T06:45:18.886131942Z   recommendation: 'Medium',
+2026-02-23T06:45:18.886134772Z   energy_scenario: 'grid_only',
+2026-02-23T06:45:18.886137682Z   has_lifetime_prediction: true
+2026-02-23T06:45:18.886140552Z }
+2026-02-23T06:45:18.886143432Z [FALLBACK] ========================================
+2026-02-23T06:45:18.886146182Z [ANALYZE] Analysis complete: {
+2026-02-23T06:45:18.886148942Z   source: 'BACKEND_FALLBACK',
+2026-02-23T06:45:18.886151942Z   business_name: 'Kafec',
+2026-02-23T06:45:18.886155002Z   viability_score: 59.3,
+2026-02-23T06:45:18.886157642Z   status: 'MODERATELY VIABLE'
+2026-02-23T06:45:18.886160352Z }
+2026-02-23T06:45:18.886165802Z 10.17.200.68 - - [23/Feb/2026:06:45:18 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6492 "https://frontend-f3bv069l1-christianas-projects-53c2c7f3.vercel.app/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T06:47:29.789018251Z 2026-02-23T06:47:29.787Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T06:47:29.789548012Z 10.17.49.1 - - [23/Feb/2026:06:47:29 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:49:13.446925276Z 2026-02-23T06:49:13.446Z - POST /api/v1/assessments/analyze - IP: 10.16.20.67
+2026-02-23T06:49:13.451148953Z 10.16.20.67 - - [23/Feb/2026:06:49:13 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 218 "https://frontend-f3bv069l1-christianas-projects-53c2c7f3.vercel.app/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T06:52:34.331542538Z 2026-02-23T06:52:34.331Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T06:52:34.331966137Z 10.16.20.67 - - [23/Feb/2026:06:52:34 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T06:52:48.50229607Z 2026-02-23T06:52:48.502Z - POST /api/v1/assessments/analyze - IP: 10.20.239.2
+2026-02-23T06:52:48.508384796Z [COMPUTE] Starting assessment computation: {
+2026-02-23T06:52:48.508401976Z   businessType: 'Restaurant',
+2026-02-23T06:52:48.508407356Z   location: 'Lagos, Nigeria',
+2026-02-23T06:52:48.508412106Z   uses_diesel: true,
+2026-02-23T06:52:48.508416606Z   simulate_model4_failure: false,
+2026-02-23T06:52:48.508421376Z   simulate_deep_failure: false
+2026-02-23T06:52:48.508425677Z }
+2026-02-23T06:52:48.508441177Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T06:52:48.508444607Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T06:52:48.508448237Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T06:52:48.508451557Z   business_name: 'Test',
+2026-02-23T06:52:48.508454457Z   business_type: 'Restaurant',
+2026-02-23T06:52:48.508457147Z   uses_diesel: true
+2026-02-23T06:52:48.508460087Z }
+2026-02-23T06:52:49.473388159Z [Model 4] DSE analyze response received: {
+2026-02-23T06:52:49.473406729Z   status: 200,
+2026-02-23T06:52:49.473411159Z   business_name: 'Test',
+2026-02-23T06:52:49.473414749Z   viability_score: 55.44,
+2026-02-23T06:52:49.473417839Z   energy_scenario: 'diesel_replacement'
+2026-02-23T06:52:49.473420629Z }
+2026-02-23T06:52:49.47343181Z [COMPUTE] Model 4 response received, validating structure
+2026-02-23T06:52:49.473671804Z [COMPUTE] Model 4 succeeded, returning DSE response
+2026-02-23T06:52:49.473757786Z [COMPUTE] Assessment complete (DSE): {
+2026-02-23T06:52:49.473761756Z   source: 'DSE_MODEL4',
+2026-02-23T06:52:49.473764646Z   viability_score: 55.44,
+2026-02-23T06:52:49.473767486Z   status: 'MODERATELY VIABLE'
+2026-02-23T06:52:49.473770777Z }
+2026-02-23T06:52:49.473864719Z [ANALYZE] Analysis complete: {
+2026-02-23T06:52:49.473868988Z   source: 'DSE_MODEL4',
+2026-02-23T06:52:49.473871689Z   business_name: 'Test',
+2026-02-23T06:52:49.473874369Z   viability_score: 55.44,
+2026-02-23T06:52:49.473877019Z   status: 'MODERATELY VIABLE'
+2026-02-23T06:52:49.473879929Z }
+2026-02-23T06:52:49.474862369Z 10.20.239.2 - - [23/Feb/2026:06:52:49 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 840 "-" "axios/1.13.5"
+2026-02-23T06:57:41.102985308Z 2026-02-23T06:57:41.102Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T06:57:41.103754223Z 10.16.20.67 - - [23/Feb/2026:06:57:41 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:02:46.322881523Z 2026-02-23T07:02:46.322Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T07:02:46.32613491Z 10.16.20.67 - - [23/Feb/2026:07:02:46 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:07:51.138372633Z 2026-02-23T07:07:51.138Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T07:07:51.157393047Z 10.20.239.2 - - [23/Feb/2026:07:07:51 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:11:04.697186486Z 2026-02-23T07:11:04.696Z - POST /api/v1/assessments/analyze - IP: 10.16.20.67
+2026-02-23T07:11:04.705935187Z [COMPUTE] Starting assessment computation: {
+2026-02-23T07:11:04.729447125Z   businessType: 'butchery',
+2026-02-23T07:11:04.729461835Z   location: 'Jos, Nigeria',
+2026-02-23T07:11:04.729467325Z   uses_diesel: true,
+2026-02-23T07:11:04.729472665Z   simulate_model4_failure: false,
+2026-02-23T07:11:04.729477325Z   simulate_deep_failure: false
+2026-02-23T07:11:04.729481905Z }
+2026-02-23T07:11:04.729486425Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T07:11:04.729491145Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T07:11:04.729495975Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T07:11:04.729500215Z   business_name: 'Jennys Kitchen',
+2026-02-23T07:11:04.729504726Z   business_type: 'butchery',
+2026-02-23T07:11:04.729509206Z   uses_diesel: true
+2026-02-23T07:11:04.729513696Z }
+2026-02-23T07:11:04.834332767Z [Model 4] DSE analyze failed: {
+2026-02-23T07:11:04.834373718Z [COMPUTE] ========================================
+2026-02-23T07:11:04.876717225Z   status: 400,
+2026-02-23T07:11:04.876732835Z   message: 'Request failed with status code 400',
+2026-02-23T07:11:04.876736415Z   data: {
+2026-02-23T07:11:04.876740465Z     error: 'Bad Request',
+2026-02-23T07:11:04.876744425Z     message: "Invalid equipment_type: 'lighting'. Must be one of the allowed types."
+2026-02-23T07:11:04.876747385Z   },
+2026-02-23T07:11:04.876751526Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T07:11:04.876754846Z }
+2026-02-23T07:11:04.876758176Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T07:11:04.876788417Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T07:11:04.876795917Z [COMPUTE] ========================================
+2026-02-23T07:11:04.876799157Z [FALLBACK] ========================================
+2026-02-23T07:11:04.876802267Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T07:11:04.876805747Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T07:11:04.876809247Z [FALLBACK] ========================================
+2026-02-23T07:11:04.876815997Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T07:11:04.876819557Z [FALLBACK] Model 1 payload: {
+2026-02-23T07:11:04.876822837Z   business_type: 'butchery',
+2026-02-23T07:11:04.876825647Z   sqft_m2: 80,
+2026-02-23T07:11:04.876828497Z   operating_hours_weekly: 77,
+2026-02-23T07:11:04.876831607Z   num_refrigeration_units: 9
+2026-02-23T07:11:04.876834337Z }
+2026-02-23T07:11:04.876837647Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T07:11:04.876841007Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T07:11:04.876843918Z   business_type: 'butchery'
+2026-02-23T07:11:04.876847008Z }
+2026-02-23T07:11:04.876849908Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 383.85 }
+2026-02-23T07:11:04.876852708Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 383.85 }
+2026-02-23T07:11:04.876855658Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T07:11:04.876858878Z [FALLBACK] Model 2 payload: { latitude: 6.4969, longitude: 3.3553, include_lifetime: true }
+2026-02-23T07:11:04.876862218Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T07:11:04.876865208Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T07:11:04.876869028Z   latitude: 6.4969,
+2026-02-23T07:11:04.876872308Z   longitude: 3.3553
+2026-02-23T07:11:04.876875388Z }
+2026-02-23T07:11:04.929897566Z [Model 2] DSE response received: {
+2026-02-23T07:11:04.931430988Z   year_1_generation_kwh: 3496.2765773137407,
+2026-02-23T07:11:04.931441049Z   has_lifetime_prediction: true
+2026-02-23T07:11:04.931444249Z }
+2026-02-23T07:11:04.931465559Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T07:11:04.931468609Z   baseGeneration10m2: 3496.2765773137407,
+2026-02-23T07:11:04.931471419Z   has_lifetime_prediction: true
+2026-02-23T07:11:04.931474219Z }
+2026-02-23T07:11:04.931481729Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T07:11:04.93148465Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T07:11:04.93148731Z   target_coverage: '90%',
+2026-02-23T07:11:04.93148991Z   scaling_factor: '1.00',
+2026-02-23T07:11:04.93149261Z   recommended_panel_area_m2: '10.0',
+2026-02-23T07:11:04.93149525Z   predicted_generation_kwh: 3496,
+2026-02-23T07:11:04.93151957Z   system_cost: 6000
+2026-02-23T07:11:04.93152267Z }
+2026-02-23T07:11:04.9315261Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T07:11:04.93152886Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T07:11:04.93153166Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T07:11:04.93153426Z   diesel_fraction: '0.33',
+2026-02-23T07:11:04.9315368Z   diesel_kwh_monthly: 128,
+2026-02-23T07:11:04.9315394Z   diesel_liters_monthly: '51.2',
+2026-02-23T07:11:04.931541911Z   diesel_fuel_cost: 88,
+2026-02-23T07:11:04.931544491Z   diesel_maintenance_cost: 120,
+2026-02-23T07:11:04.931547141Z   blended_tariff: '0.64',
+2026-02-23T07:11:04.931549761Z   total_monthly_cost: 246
+2026-02-23T07:11:04.931552331Z }
+2026-02-23T07:11:04.931554891Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T07:11:04.931557501Z [FALLBACK] Model 3 payload: {
+2026-02-23T07:11:04.931560051Z   consumption_kwh: 383.85,
+2026-02-23T07:11:04.931563081Z   generation_kwh: 3496,
+2026-02-23T07:11:04.931565951Z   tariff_per_kwh: 0.6420418211187632,
+2026-02-23T07:11:04.931568561Z   system_cost_usd: 6000
+2026-02-23T07:11:04.931571221Z }
+2026-02-23T07:11:04.931573871Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T07:11:04.931576601Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T07:11:04.931579261Z   consumption_kwh: 383.85,
+2026-02-23T07:11:04.931581832Z   generation_kwh: 3496.2765773137407
+2026-02-23T07:11:04.931584432Z }
+2026-02-23T07:11:04.970420276Z [Model 3] DSE response received: { monthly_savings_usd: 246.45, roi_percentage: 49.29 }
+2026-02-23T07:11:04.970435326Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '246.45', roi_percentage: '49.3' }
+2026-02-23T07:11:04.970439036Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T07:11:04.970442526Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T07:11:04.970446006Z   roi_score: '50.0',
+2026-02-23T07:11:04.970449357Z   coverage_score: '30.0',
+2026-02-23T07:11:04.970452087Z   savings_score: '9.9',
+2026-02-23T07:11:04.970454807Z   viability_score: '89.9',
+2026-02-23T07:11:04.970457687Z   recommendation: 'High',
+2026-02-23T07:11:04.970460457Z   status: 'HIGHLY VIABLE'
+2026-02-23T07:11:04.970463207Z }
+2026-02-23T07:11:04.970466057Z [FALLBACK] ========================================
+2026-02-23T07:11:04.970468827Z [FALLBACK] Fallback assessment complete
+2026-02-23T07:11:04.970471557Z [FALLBACK] Final results: {
+2026-02-23T07:11:04.970474287Z   source: 'BACKEND_FALLBACK',
+2026-02-23T07:11:04.970476987Z   deep_fallback_used: false,
+2026-02-23T07:11:04.970479827Z   viability_score: 89.9,
+2026-02-23T07:11:04.970482567Z   status: 'HIGHLY VIABLE',
+2026-02-23T07:11:04.970485257Z   recommendation: 'High',
+2026-02-23T07:11:04.970488057Z   energy_scenario: 'diesel_replacement',
+2026-02-23T07:11:04.970490798Z   has_lifetime_prediction: true
+2026-02-23T07:11:04.970493558Z }
+2026-02-23T07:11:04.970496587Z [FALLBACK] ========================================
+2026-02-23T07:11:04.970573409Z [ANALYZE] Analysis complete: {
+2026-02-23T07:11:04.970580959Z   source: 'BACKEND_FALLBACK',
+2026-02-23T07:11:04.970584879Z   business_name: 'Jennys Kitchen',
+2026-02-23T07:11:04.97058812Z   viability_score: 89.9,
+2026-02-23T07:11:04.9705914Z   status: 'HIGHLY VIABLE'
+2026-02-23T07:11:04.97059466Z }
+2026-02-23T07:11:04.971898347Z 10.16.20.67 - - [23/Feb/2026:07:11:04 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6651 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T07:11:04.994241219Z 2026-02-23T07:11:04.986Z - POST /api/v1/assessments/analyze - IP: 10.20.239.2
+2026-02-23T07:11:04.997351444Z [COMPUTE] Starting assessment computation: {
+2026-02-23T07:11:04.997365274Z   businessType: 'butchery',
+2026-02-23T07:11:04.997368534Z   location: 'Jos, Nigeria',
+2026-02-23T07:11:04.997371714Z   uses_diesel: true,
+2026-02-23T07:11:04.997374584Z   simulate_model4_failure: false,
+2026-02-23T07:11:04.997377414Z   simulate_deep_failure: false
+2026-02-23T07:11:04.997380294Z }
+2026-02-23T07:11:04.997383164Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T07:11:04.997386084Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T07:11:04.997389035Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T07:11:04.997391815Z   business_name: 'Jennys Kitchen',
+2026-02-23T07:11:04.997394625Z   business_type: 'butchery',
+2026-02-23T07:11:04.997399255Z   uses_diesel: true
+2026-02-23T07:11:04.997402185Z }
+2026-02-23T07:11:05.044238125Z [Model 4] DSE analyze failed: {
+2026-02-23T07:11:05.044238155Z [COMPUTE] ========================================
+2026-02-23T07:11:05.072736075Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T07:11:05.072748796Z [COMPUTE] ========================================
+2026-02-23T07:11:05.072752545Z [FALLBACK] ========================================
+2026-02-23T07:11:05.072774686Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T07:11:05.072778736Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T07:11:05.072780946Z [FALLBACK] ========================================
+2026-02-23T07:11:05.072788666Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T07:11:05.072792616Z [FALLBACK] Model 1 payload: {
+2026-02-23T07:11:05.072796206Z   business_type: 'butchery',
+2026-02-23T07:11:05.072799497Z   sqft_m2: 80,
+2026-02-23T07:11:05.072802706Z   operating_hours_weekly: 77,
+2026-02-23T07:11:05.072805817Z   num_refrigeration_units: 9
+2026-02-23T07:11:05.072809407Z }
+2026-02-23T07:11:05.072811847Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T07:11:05.072815597Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T07:11:05.072819047Z   business_type: 'butchery'
+2026-02-23T07:11:05.072828167Z   status: 400,
+2026-02-23T07:11:05.072834067Z   message: 'Request failed with status code 400',
+2026-02-23T07:11:05.072837587Z   data: {
+2026-02-23T07:11:05.072840767Z     error: 'Bad Request',
+2026-02-23T07:11:05.072843777Z     message: "Invalid equipment_type: 'lighting'. Must be one of the allowed types."
+2026-02-23T07:11:05.072846458Z   },
+2026-02-23T07:11:05.072849558Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T07:11:05.072852258Z }
+2026-02-23T07:11:05.072860728Z }
+2026-02-23T07:11:05.072870088Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T07:11:05.09421367Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 383.85 }
+2026-02-23T07:11:05.116003821Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 383.85 }
+2026-02-23T07:11:05.116017932Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T07:11:05.116029022Z [FALLBACK] Model 2 payload: { latitude: 6.4969, longitude: 3.3553, include_lifetime: true }
+2026-02-23T07:11:05.116034642Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T07:11:05.116037382Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T07:11:05.116041742Z   latitude: 6.4969,
+2026-02-23T07:11:05.116053082Z   longitude: 3.3553
+2026-02-23T07:11:05.116056182Z }
+2026-02-23T07:11:05.212236245Z [Model 2] DSE response received: {
+2026-02-23T07:11:05.212256835Z   year_1_generation_kwh: 3496.2765773137407,
+2026-02-23T07:11:05.212261605Z   has_lifetime_prediction: true
+2026-02-23T07:11:05.212264785Z }
+2026-02-23T07:11:05.212267806Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T07:11:05.212270846Z   baseGeneration10m2: 3496.2765773137407,
+2026-02-23T07:11:05.212291286Z   has_lifetime_prediction: true
+2026-02-23T07:11:05.212295256Z }
+2026-02-23T07:11:05.212299436Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T07:11:05.212303036Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T07:11:05.212306146Z   target_coverage: '90%',
+2026-02-23T07:11:05.212309286Z   scaling_factor: '1.00',
+2026-02-23T07:11:05.212312386Z   recommended_panel_area_m2: '10.0',
+2026-02-23T07:11:05.212315347Z   predicted_generation_kwh: 3496,
+2026-02-23T07:11:05.212319096Z   system_cost: 6000
+2026-02-23T07:11:05.212322896Z }
+2026-02-23T07:11:05.212326267Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T07:11:05.213161304Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T07:11:05.213176074Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T07:11:05.213180434Z   diesel_fraction: '0.33',
+2026-02-23T07:11:05.213183345Z   diesel_kwh_monthly: 128,
+2026-02-23T07:11:05.213185905Z   diesel_liters_monthly: '51.2',
+2026-02-23T07:11:05.213189834Z   diesel_fuel_cost: 88,
+2026-02-23T07:11:05.213192345Z   diesel_maintenance_cost: 120,
+2026-02-23T07:11:05.213194805Z   blended_tariff: '0.64',
+2026-02-23T07:11:05.213197345Z   total_monthly_cost: 246
+2026-02-23T07:11:05.213199815Z }
+2026-02-23T07:11:05.213203335Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T07:11:05.213206095Z [FALLBACK] Model 3 payload: {
+2026-02-23T07:11:05.213208585Z   consumption_kwh: 383.85,
+2026-02-23T07:11:05.213211165Z   generation_kwh: 3496,
+2026-02-23T07:11:05.213213685Z   tariff_per_kwh: 0.6420418211187632,
+2026-02-23T07:11:05.213216155Z   system_cost_usd: 6000
+2026-02-23T07:11:05.213218875Z }
+2026-02-23T07:11:05.213221455Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T07:11:05.213224065Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T07:11:05.213226605Z   consumption_kwh: 383.85,
+2026-02-23T07:11:05.213229035Z   generation_kwh: 3496.2765773137407
+2026-02-23T07:11:05.213231626Z }
+2026-02-23T07:11:05.255414269Z [Model 3] DSE response received: { monthly_savings_usd: 246.45, roi_percentage: 49.29 }
+2026-02-23T07:11:05.25543066Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '246.45', roi_percentage: '49.3' }
+2026-02-23T07:11:05.25543488Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T07:11:05.25543865Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T07:11:05.25544763Z   roi_score: '50.0',
+2026-02-23T07:11:05.25545166Z   coverage_score: '30.0',
+2026-02-23T07:11:05.25545456Z   savings_score: '9.9',
+2026-02-23T07:11:05.25545742Z   viability_score: '89.9',
+2026-02-23T07:11:05.25546054Z   recommendation: 'High',
+2026-02-23T07:11:05.2554639Z   status: 'HIGHLY VIABLE'
+2026-02-23T07:11:05.25546683Z }
+2026-02-23T07:11:05.25547038Z [FALLBACK] ========================================
+2026-02-23T07:11:05.25547371Z [FALLBACK] Fallback assessment complete
+2026-02-23T07:11:05.25547703Z [FALLBACK] Final results: {
+2026-02-23T07:11:05.255480161Z   source: 'BACKEND_FALLBACK',
+2026-02-23T07:11:05.255491801Z   deep_fallback_used: false,
+2026-02-23T07:11:05.255494881Z   viability_score: 89.9,
+2026-02-23T07:11:05.255497801Z   status: 'HIGHLY VIABLE',
+2026-02-23T07:11:05.255500651Z   recommendation: 'High',
+2026-02-23T07:11:05.255503761Z   energy_scenario: 'diesel_replacement',
+2026-02-23T07:11:05.255506621Z   has_lifetime_prediction: true
+2026-02-23T07:11:05.255509561Z }
+2026-02-23T07:11:05.255512511Z [FALLBACK] ========================================
+2026-02-23T07:11:05.255515661Z [ANALYZE] Analysis complete: {
+2026-02-23T07:11:05.255518751Z   source: 'BACKEND_FALLBACK',
+2026-02-23T07:11:05.255521911Z   business_name: 'Jennys Kitchen',
+2026-02-23T07:11:05.255524942Z   viability_score: 89.9,
+2026-02-23T07:11:05.255527971Z   status: 'HIGHLY VIABLE'
+2026-02-23T07:11:05.255536862Z }
+2026-02-23T07:11:05.25595597Z 10.20.239.2 - - [23/Feb/2026:07:11:05 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6651 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T07:12:56.158528944Z 2026-02-23T07:12:56.158Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T07:12:56.159769719Z 10.16.20.67 - - [23/Feb/2026:07:12:56 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:18:00.787734541Z 2026-02-23T07:18:00.787Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T07:18:00.793663184Z 10.17.200.68 - - [23/Feb/2026:07:18:00 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:23:05.299271209Z 2026-02-23T07:23:05.299Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T07:23:05.304139601Z 10.20.239.2 - - [23/Feb/2026:07:23:05 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:28:09.351350361Z 2026-02-23T07:28:09.351Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T07:28:09.352135617Z 10.20.239.2 - - [23/Feb/2026:07:28:09 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:32:45.927410086Z 2026-02-23T07:32:45.926Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T07:32:45.930441689Z 10.17.49.1 - - [23/Feb/2026:07:32:45 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 218 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T07:32:45.945210357Z 2026-02-23T07:32:45.943Z - POST /api/v1/assessments/analyze - IP: 10.16.20.67
+2026-02-23T07:32:45.950328364Z 10.16.20.67 - - [23/Feb/2026:07:32:45 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 218 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T07:33:18.352355499Z 2026-02-23T07:33:18.350Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T07:33:18.352476551Z 10.20.239.2 - - [23/Feb/2026:07:33:18 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:38:27.842239031Z 2026-02-23T07:38:27.842Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T07:38:27.842860004Z 10.17.49.1 - - [23/Feb/2026:07:38:27 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:39:32.871603135Z 2026-02-23T07:39:32.871Z - POST /api/v1/assessments/analyze - IP: 10.20.239.2
+2026-02-23T07:39:32.894909181Z 10.20.239.2 - - [23/Feb/2026:07:39:32 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 218 "http://localhost:5173/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2026-02-23T07:39:32.895623006Z 2026-02-23T07:39:32.895Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T07:39:32.897927644Z 10.17.49.1 - - [23/Feb/2026:07:39:32 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 218 "http://localhost:5173/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2026-02-23T07:43:33.366626495Z 2026-02-23T07:43:33.365Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T07:43:33.367465142Z 10.16.20.67 - - [23/Feb/2026:07:43:33 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:48:37.80986187Z 2026-02-23T07:48:37.809Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T07:48:37.810691487Z 10.20.239.2 - - [23/Feb/2026:07:48:37 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:53:41.871548832Z 2026-02-23T07:53:41.871Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T07:53:41.875995075Z 10.17.200.68 - - [23/Feb/2026:07:53:41 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T07:55:28.060298897Z 2026-02-23T07:55:28.060Z - POST /api/v1/assessments/analyze - IP: 10.17.200.68
+2026-02-23T07:55:28.270318324Z 10.17.200.68 - - [23/Feb/2026:07:55:28 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 341 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T07:55:28.271019098Z 2026-02-23T07:55:28.270Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T07:55:28.27969045Z 10.17.49.1 - - [23/Feb/2026:07:55:28 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 341 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T07:58:45.355826415Z 2026-02-23T07:58:45.355Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T07:58:45.358695355Z 10.17.200.68 - - [23/Feb/2026:07:58:45 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:03:50.180838584Z 2026-02-23T08:03:50.180Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T08:03:50.181339455Z 10.16.20.67 - - [23/Feb/2026:08:03:50 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:05:24.701141526Z 2026-02-23T08:05:24.700Z - POST /api/v1/assessments/analyze - IP: 10.20.239.2
+2026-02-23T08:05:24.709154713Z 10.20.239.2 - - [23/Feb/2026:08:05:24 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 198 "http://localhost:5173/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2026-02-23T08:05:24.710033432Z 2026-02-23T08:05:24.709Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T08:05:24.713747469Z 10.17.49.1 - - [23/Feb/2026:08:05:24 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 198 "http://localhost:5173/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2026-02-23T08:08:53.987679225Z 2026-02-23T08:08:53.987Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T08:08:54.000369Z 10.16.20.67 - - [23/Feb/2026:08:08:53 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:11:26.209168707Z 2026-02-23T08:11:26.208Z - HEAD / - IP: 10.17.49.1
+2026-02-23T08:11:26.224618849Z 10.17.49.1 - - [23/Feb/2026:08:11:26 +0000] "HEAD / HTTP/1.1" 404 140 "-" "-"
+2026-02-23T08:11:27.572918293Z 2026-02-23T08:11:27.572Z - GET / - IP: 10.17.200.68
+2026-02-23T08:11:27.574414115Z 10.17.200.68 - - [23/Feb/2026:08:11:27 +0000] "GET / HTTP/1.1" 404 139 "https://statics.teams.cdn.office.net/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T08:11:41.444828451Z 2026-02-23T08:11:41.444Z - GET / - IP: 10.17.49.1
+2026-02-23T08:11:41.445550396Z 10.17.49.1 - - [23/Feb/2026:08:11:41 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
+2026-02-23T08:14:06.036930578Z 2026-02-23T08:14:06.036Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T08:14:06.083724392Z 10.16.20.67 - - [23/Feb/2026:08:14:06 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:19:11.399630655Z 2026-02-23T08:19:11.399Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T08:19:11.412567566Z 10.20.239.2 - - [23/Feb/2026:08:19:11 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:24:18.614463056Z 2026-02-23T08:24:18.614Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T08:24:18.61608613Z 10.17.49.1 - - [23/Feb/2026:08:24:18 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:24:42.556939523Z 2026-02-23T08:24:42.556Z - POST /api/v1/assessments/analyze - IP: 10.20.239.2
+2026-02-23T08:24:42.569091607Z [COMPUTE] Starting assessment computation: {
+2026-02-23T08:24:42.569113867Z   businessType: 'Retail',
+2026-02-23T08:24:42.569119127Z   location: 'Surulere, Nigeria',
+2026-02-23T08:24:42.569124267Z   uses_diesel: true,
+2026-02-23T08:24:42.569128687Z   simulate_model4_failure: false,
+2026-02-23T08:24:42.569132957Z   simulate_deep_failure: false
+2026-02-23T08:24:42.569137248Z }
+2026-02-23T08:24:42.569148318Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T08:24:42.56923039Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T08:24:42.56923833Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T08:24:42.56924391Z   business_name: 'Jenny',
+2026-02-23T08:24:42.56924843Z   business_type: 'Retail',
+2026-02-23T08:24:42.56925342Z   uses_diesel: true
+2026-02-23T08:24:42.5692579Z }
+2026-02-23T08:24:42.678974892Z 2026-02-23T08:24:42.678Z - POST /api/v1/assessments/analyze - IP: 10.20.239.2
+2026-02-23T08:24:42.681975785Z [COMPUTE] Starting assessment computation: {
+2026-02-23T08:24:42.681996976Z   businessType: 'Retail',
+2026-02-23T08:24:42.682002906Z   location: 'Surulere, Nigeria',
+2026-02-23T08:24:42.682008656Z   uses_diesel: true,
+2026-02-23T08:24:42.682013816Z   simulate_model4_failure: false,
+2026-02-23T08:24:42.682018486Z   simulate_deep_failure: false
+2026-02-23T08:24:42.682023616Z }
+2026-02-23T08:24:42.682044267Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T08:24:42.682062997Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T08:24:42.682100708Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T08:24:42.682107148Z   business_name: 'Jenny',
+2026-02-23T08:24:42.682110048Z   business_type: 'Retail',
+2026-02-23T08:24:42.682113688Z   uses_diesel: true
+2026-02-23T08:24:42.682116558Z }
+2026-02-23T08:24:42.81235975Z [Model 4] DSE analyze failed: {
+2026-02-23T08:24:42.81237841Z   status: 400,
+2026-02-23T08:24:42.81238258Z   message: 'Request failed with status code 400',
+2026-02-23T08:24:42.81238596Z   data: {
+2026-02-23T08:24:42.81238885Z     error: 'Bad Request',
+2026-02-23T08:24:42.81239267Z     message: "Invalid equipment_type: 'displaychillers'. Must be one of the allowed types."
+2026-02-23T08:24:42.81239565Z   },
+2026-02-23T08:24:42.81239977Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T08:24:42.8124027Z }
+2026-02-23T08:24:42.812415591Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T08:24:42.812434631Z [COMPUTE] ========================================
+2026-02-23T08:24:42.812439241Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T08:24:42.812442191Z [COMPUTE] ========================================
+2026-02-23T08:24:42.812445231Z [FALLBACK] ========================================
+2026-02-23T08:24:42.812452531Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T08:24:42.812456232Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T08:24:42.812459341Z [FALLBACK] ========================================
+2026-02-23T08:24:42.812595324Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T08:24:42.81332827Z [FALLBACK] Model 1 payload: {
+2026-02-23T08:24:42.81334262Z   business_type: 'grocery',
+2026-02-23T08:24:42.81334646Z   sqft_m2: 80,
+2026-02-23T08:24:42.81334959Z   operating_hours_weekly: 147,
+2026-02-23T08:24:42.81335274Z   num_refrigeration_units: 8
+2026-02-23T08:24:42.81335573Z }
+2026-02-23T08:24:42.81335942Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T08:24:42.81336304Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T08:24:42.8133663Z   business_type: 'grocery'
+2026-02-23T08:24:42.813369721Z }
+2026-02-23T08:24:42.848156647Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 350.24 }
+2026-02-23T08:24:42.848179488Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 350.24 }
+2026-02-23T08:24:42.848192238Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T08:24:42.848195718Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T08:24:42.84828956Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T08:24:42.84829773Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T08:24:42.84830195Z   latitude: 6.5244,
+2026-02-23T08:24:42.848305141Z   longitude: 3.3792
+2026-02-23T08:24:42.84830837Z }
+2026-02-23T08:24:42.892820941Z [Model 2] DSE response received: {
+2026-02-23T08:24:42.892841591Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T08:24:42.892846351Z   has_lifetime_prediction: true
+2026-02-23T08:24:42.892849321Z }
+2026-02-23T08:24:42.892851451Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T08:24:42.892853531Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T08:24:42.892855561Z   has_lifetime_prediction: true
+2026-02-23T08:24:42.892857661Z }
+2026-02-23T08:24:42.892868462Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T08:24:42.892882372Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T08:24:42.892885842Z   target_coverage: '90%',
+2026-02-23T08:24:42.892888932Z   scaling_factor: '1.00',
+2026-02-23T08:24:42.892892282Z   recommended_panel_area_m2: '10.0',
+2026-02-23T08:24:42.892895242Z   predicted_generation_kwh: 3360,
+2026-02-23T08:24:42.892899002Z   system_cost: 6000
+2026-02-23T08:24:42.892902352Z }
+2026-02-23T08:24:42.892910682Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T08:24:42.892913753Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T08:24:42.892993354Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T08:24:42.892998214Z   diesel_fraction: '0.50',
+2026-02-23T08:24:42.893001555Z   diesel_kwh_monthly: 175,
+2026-02-23T08:24:42.893004704Z   diesel_liters_monthly: '70.0',
+2026-02-23T08:24:42.893007555Z   diesel_fuel_cost: 121,
+2026-02-23T08:24:42.893010225Z   diesel_maintenance_cost: 180,
+2026-02-23T08:24:42.893013015Z   blended_tariff: '0.93',
+2026-02-23T08:24:42.893015645Z   total_monthly_cost: 327
+2026-02-23T08:24:42.893018275Z }
+2026-02-23T08:24:42.893021205Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T08:24:42.893054865Z [FALLBACK] Model 3 payload: {
+2026-02-23T08:24:42.893058526Z   consumption_kwh: 350.24,
+2026-02-23T08:24:42.893061646Z   generation_kwh: 3360,
+2026-02-23T08:24:42.893064976Z   tariff_per_kwh: 0.9330628575338968,
+2026-02-23T08:24:42.893089566Z   system_cost_usd: 6000
+2026-02-23T08:24:42.893092616Z }
+2026-02-23T08:24:42.893113427Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T08:24:42.893116977Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T08:24:42.893120397Z   consumption_kwh: 350.24,
+2026-02-23T08:24:42.893123907Z   generation_kwh: 3360.4789628585177
+2026-02-23T08:24:42.893127517Z }
+2026-02-23T08:24:42.926887112Z [Model 3] DSE response received: { monthly_savings_usd: 326.8, roi_percentage: 65.36 }
+2026-02-23T08:24:42.926905363Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '326.80', roi_percentage: '65.4' }
+2026-02-23T08:24:42.926909073Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T08:24:42.926912663Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T08:24:42.926915583Z   roi_score: '50.0',
+2026-02-23T08:24:42.926918673Z   coverage_score: '30.0',
+2026-02-23T08:24:42.926921453Z   savings_score: '13.1',
+2026-02-23T08:24:42.926923883Z   viability_score: '93.1',
+2026-02-23T08:24:42.926926233Z   recommendation: 'High',
+2026-02-23T08:24:42.926928633Z   status: 'HIGHLY VIABLE'
+2026-02-23T08:24:42.926930953Z }
+2026-02-23T08:24:42.926933364Z [FALLBACK] ========================================
+2026-02-23T08:24:42.926935793Z [FALLBACK] Fallback assessment complete
+2026-02-23T08:24:42.926938184Z [FALLBACK] Final results: {
+2026-02-23T08:24:42.926940744Z   source: 'BACKEND_FALLBACK',
+2026-02-23T08:24:42.926943114Z   deep_fallback_used: false,
+2026-02-23T08:24:42.926945464Z   viability_score: 93.1,
+2026-02-23T08:24:42.926947814Z   status: 'HIGHLY VIABLE',
+2026-02-23T08:24:42.926950204Z   recommendation: 'High',
+2026-02-23T08:24:42.926952574Z   energy_scenario: 'diesel_replacement',
+2026-02-23T08:24:42.926954994Z   has_lifetime_prediction: true
+2026-02-23T08:24:42.926957364Z }
+2026-02-23T08:24:42.926959794Z [FALLBACK] ========================================
+2026-02-23T08:24:42.927667739Z [ANALYZE] Analysis complete: {
+2026-02-23T08:24:42.927681349Z   source: 'BACKEND_FALLBACK',
+2026-02-23T08:24:42.927684209Z   business_name: 'Jenny',
+2026-02-23T08:24:42.927699229Z   viability_score: 93.1,
+2026-02-23T08:24:42.927702Z   status: 'HIGHLY VIABLE'
+2026-02-23T08:24:42.92770467Z }
+2026-02-23T08:24:42.928475096Z 10.20.239.2 - - [23/Feb/2026:08:24:42 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6640 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T08:24:43.013514762Z [COMPUTE] ========================================
+2026-02-23T08:24:43.013527063Z [Model 4] DSE analyze failed: {
+2026-02-23T08:24:43.013554733Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T08:24:43.013559874Z [COMPUTE] ========================================
+2026-02-23T08:24:43.013563703Z [FALLBACK] ========================================
+2026-02-23T08:24:43.013567114Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T08:24:43.013577924Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T08:24:43.013581854Z   status: 400,
+2026-02-23T08:24:43.013581984Z [FALLBACK] ========================================
+2026-02-23T08:24:43.013589314Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T08:24:43.013589454Z   message: 'Request failed with status code 400',
+2026-02-23T08:24:43.013595644Z   data: {
+2026-02-23T08:24:43.013599664Z     error: 'Bad Request',
+2026-02-23T08:24:43.013604094Z     message: "Invalid equipment_type: 'displaychillers'. Must be one of the allowed types."
+2026-02-23T08:24:43.013607804Z   },
+2026-02-23T08:24:43.013610704Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T08:24:43.013612944Z }
+2026-02-23T08:24:43.013615075Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T08:24:43.013666976Z [FALLBACK] Model 1 payload: {
+2026-02-23T08:24:43.013682536Z   business_type: 'grocery',
+2026-02-23T08:24:43.013685856Z   sqft_m2: 80,
+2026-02-23T08:24:43.013688886Z   operating_hours_weekly: 147,
+2026-02-23T08:24:43.013692106Z   num_refrigeration_units: 8
+2026-02-23T08:24:43.013695126Z }
+2026-02-23T08:24:43.013698876Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T08:24:43.013703346Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T08:24:43.013706577Z   business_type: 'grocery'
+2026-02-23T08:24:43.013709777Z }
+2026-02-23T08:24:43.235782287Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 350.24 }
+2026-02-23T08:24:43.235811087Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 350.24 }
+2026-02-23T08:24:43.235837308Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T08:24:43.235847238Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T08:24:43.235894249Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T08:24:43.235899459Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T08:24:43.235902919Z   latitude: 6.5244,
+2026-02-23T08:24:43.235905649Z   longitude: 3.3792
+2026-02-23T08:24:43.235908829Z }
+2026-02-23T08:24:43.454946736Z [Model 2] DSE response received: {
+2026-02-23T08:24:43.454975807Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T08:24:43.454981587Z   has_lifetime_prediction: true
+2026-02-23T08:24:43.454985777Z }
+2026-02-23T08:24:43.454989877Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T08:24:43.454994127Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T08:24:43.454998247Z   has_lifetime_prediction: true
+2026-02-23T08:24:43.455001557Z }
+2026-02-23T08:24:43.455022378Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T08:24:43.45513541Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T08:24:43.45515069Z   target_coverage: '90%',
+2026-02-23T08:24:43.45515554Z   scaling_factor: '1.00',
+2026-02-23T08:24:43.455159861Z   recommended_panel_area_m2: '10.0',
+2026-02-23T08:24:43.455162521Z   predicted_generation_kwh: 3360,
+2026-02-23T08:24:43.455165681Z   system_cost: 6000
+2026-02-23T08:24:43.455168251Z }
+2026-02-23T08:24:43.455171421Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T08:24:43.455177161Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T08:24:43.455179801Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T08:24:43.455182731Z   diesel_fraction: '0.50',
+2026-02-23T08:24:43.455185301Z   diesel_kwh_monthly: 175,
+2026-02-23T08:24:43.455187851Z   diesel_liters_monthly: '70.0',
+2026-02-23T08:24:43.455190491Z   diesel_fuel_cost: 121,
+2026-02-23T08:24:43.455192991Z   diesel_maintenance_cost: 180,
+2026-02-23T08:24:43.455195491Z   blended_tariff: '0.93',
+2026-02-23T08:24:43.455198061Z   total_monthly_cost: 327
+2026-02-23T08:24:43.455200621Z }
+2026-02-23T08:24:43.455203251Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T08:24:43.455221182Z [FALLBACK] Model 3 payload: {
+2026-02-23T08:24:43.455225882Z   consumption_kwh: 350.24,
+2026-02-23T08:24:43.455230762Z   generation_kwh: 3360,
+2026-02-23T08:24:43.455234542Z   tariff_per_kwh: 0.9330628575338968,
+2026-02-23T08:24:43.455238472Z   system_cost_usd: 6000
+2026-02-23T08:24:43.455242542Z }
+2026-02-23T08:24:43.455255263Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T08:24:43.455257812Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T08:24:43.455259803Z   consumption_kwh: 350.24,
+2026-02-23T08:24:43.455261852Z   generation_kwh: 3360.4789628585177
+2026-02-23T08:24:43.455263823Z }
+2026-02-23T08:24:43.663047374Z [Model 3] DSE response received: { monthly_savings_usd: 326.8, roi_percentage: 65.36 }
+2026-02-23T08:24:43.663109335Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '326.80', roi_percentage: '65.4' }
+2026-02-23T08:24:43.663125366Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T08:24:43.663191717Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T08:24:43.663197977Z   roi_score: '50.0',
+2026-02-23T08:24:43.663201677Z   coverage_score: '30.0',
+2026-02-23T08:24:43.663204237Z   savings_score: '13.1',
+2026-02-23T08:24:43.663206687Z   viability_score: '93.1',
+2026-02-23T08:24:43.663209288Z   recommendation: 'High',
+2026-02-23T08:24:43.663211837Z   status: 'HIGHLY VIABLE'
+2026-02-23T08:24:43.663214457Z }
+2026-02-23T08:24:43.663283629Z [FALLBACK] ========================================
+2026-02-23T08:24:43.663289209Z [FALLBACK] Fallback assessment complete
+2026-02-23T08:24:43.66333105Z [FALLBACK] Final results: {
+2026-02-23T08:24:43.66333643Z   source: 'BACKEND_FALLBACK',
+2026-02-23T08:24:43.66333906Z   deep_fallback_used: false,
+2026-02-23T08:24:43.66334154Z   viability_score: 93.1,
+2026-02-23T08:24:43.66334437Z   status: 'HIGHLY VIABLE',
+2026-02-23T08:24:43.66334691Z   recommendation: 'High',
+2026-02-23T08:24:43.66335013Z   energy_scenario: 'diesel_replacement',
+2026-02-23T08:24:43.663354171Z   has_lifetime_prediction: true
+2026-02-23T08:24:43.66335832Z }
+2026-02-23T08:24:43.663362661Z [FALLBACK] ========================================
+2026-02-23T08:24:43.663403432Z [ANALYZE] Analysis complete: {
+2026-02-23T08:24:43.663407642Z   source: 'BACKEND_FALLBACK',
+2026-02-23T08:24:43.663423582Z   business_name: 'Jenny',
+2026-02-23T08:24:43.663428092Z   viability_score: 93.1,
+2026-02-23T08:24:43.663432142Z   status: 'HIGHLY VIABLE'
+2026-02-23T08:24:43.663436072Z }
+2026-02-23T08:24:43.664045415Z 10.20.239.2 - - [23/Feb/2026:08:24:43 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6640 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T08:29:29.290912426Z 2026-02-23T08:29:29.290Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T08:29:29.292391937Z 10.17.200.68 - - [23/Feb/2026:08:29:29 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:34:33.990522001Z 2026-02-23T08:34:33.990Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T08:34:33.997144019Z 10.20.239.2 - - [23/Feb/2026:08:34:33 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:39:38.679187363Z 2026-02-23T08:39:38.678Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T08:39:38.68528972Z 10.17.200.68 - - [23/Feb/2026:08:39:38 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:44:48.151810945Z 2026-02-23T08:44:48.151Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T08:44:48.152465999Z 10.17.200.68 - - [23/Feb/2026:08:44:48 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:49:52.32773542Z 2026-02-23T08:49:52.327Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T08:49:52.328325082Z 10.16.20.67 - - [23/Feb/2026:08:49:52 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:54:57.706914447Z 2026-02-23T08:54:57.706Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T08:54:57.707465619Z 10.17.49.1 - - [23/Feb/2026:08:54:57 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T08:59:46.882477648Z 2026-02-23T08:59:46.881Z - GET / - IP: 10.17.200.68
+2026-02-23T08:59:46.883098221Z 10.17.200.68 - - [23/Feb/2026:08:59:46 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:00:01.26875502Z 2026-02-23T09:00:01.268Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T09:00:01.268790801Z 10.17.200.68 - - [23/Feb/2026:09:00:01 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:01:28.574931963Z 2026-02-23T09:01:28.574Z - POST /api/v1/assessments/analyze - IP: 10.17.200.68
+2026-02-23T09:01:28.577614399Z [COMPUTE] Starting assessment computation: {
+2026-02-23T09:01:28.577634379Z   businessType: 'Retail',
+2026-02-23T09:01:28.577640099Z   location: 'Surulere, Nigeria',
+2026-02-23T09:01:28.577645519Z   uses_diesel: true,
+2026-02-23T09:01:28.57765052Z   simulate_model4_failure: false,
+2026-02-23T09:01:28.577655129Z   simulate_deep_failure: false
+2026-02-23T09:01:28.57766021Z }
+2026-02-23T09:01:28.57766505Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T09:01:28.57768339Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T09:01:28.57768928Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T09:01:28.577711091Z   business_name: 'Jenny Kitchen',
+2026-02-23T09:01:28.577714251Z   business_type: 'Retail',
+2026-02-23T09:01:28.577717091Z   uses_diesel: true
+2026-02-23T09:01:28.577720181Z }
+2026-02-23T09:01:28.860228951Z 2026-02-23T09:01:28.860Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T09:01:28.862133321Z [COMPUTE] Starting assessment computation: {
+2026-02-23T09:01:28.862153721Z   businessType: 'Retail',
+2026-02-23T09:01:28.862157341Z   location: 'Surulere, Nigeria',
+2026-02-23T09:01:28.862161201Z   uses_diesel: true,
+2026-02-23T09:01:28.862166902Z   simulate_model4_failure: false,
+2026-02-23T09:01:28.862169051Z   simulate_deep_failure: false
+2026-02-23T09:01:28.862171151Z }
+2026-02-23T09:01:28.862184082Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T09:01:28.862212643Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T09:01:28.862216712Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T09:01:28.862218812Z   business_name: 'Jenny Kitchen',
+2026-02-23T09:01:28.862221373Z   business_type: 'Retail',
+2026-02-23T09:01:28.862223963Z   uses_diesel: true
+2026-02-23T09:01:28.862226003Z }
+2026-02-23T09:01:28.912527693Z [Model 4] DSE analyze failed: {
+2026-02-23T09:01:28.912554274Z   status: 400,
+2026-02-23T09:01:28.912559924Z   message: 'Request failed with status code 400',
+2026-02-23T09:01:28.912563624Z   data: {
+2026-02-23T09:01:28.912567544Z     error: 'Bad Request',
+2026-02-23T09:01:28.912572324Z     message: "Invalid equipment_type: 'displaychillers'. Must be one of the allowed types."
+2026-02-23T09:01:28.912576704Z   },
+2026-02-23T09:01:28.912578534Z [COMPUTE] ========================================
+2026-02-23T09:01:28.912581604Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T09:01:28.912589165Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T09:01:28.912593145Z [COMPUTE] ========================================
+2026-02-23T09:01:28.912596515Z [FALLBACK] ========================================
+2026-02-23T09:01:28.912599675Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T09:01:28.912603605Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T09:01:28.912607235Z [FALLBACK] ========================================
+2026-02-23T09:01:28.912615895Z }
+2026-02-23T09:01:28.912619945Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T09:01:28.912632716Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T09:01:28.912700797Z [FALLBACK] Model 1 payload: {
+2026-02-23T09:01:28.912707547Z   business_type: 'grocery',
+2026-02-23T09:01:28.912711727Z   sqft_m2: 80,
+2026-02-23T09:01:28.912715517Z   operating_hours_weekly: 119,
+2026-02-23T09:01:28.912719887Z   num_refrigeration_units: 8
+2026-02-23T09:01:28.912724207Z }
+2026-02-23T09:01:28.912744198Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T09:01:28.912747528Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T09:01:28.912750088Z   business_type: 'grocery'
+2026-02-23T09:01:28.912752718Z }
+2026-02-23T09:01:29.126587724Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 357.37 }
+2026-02-23T09:01:29.126612705Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 357.37 }
+2026-02-23T09:01:29.126617594Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T09:01:29.126638785Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T09:01:29.127456742Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T09:01:29.127502693Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T09:01:29.127508693Z   latitude: 6.5244,
+2026-02-23T09:01:29.127511693Z   longitude: 3.3792
+2026-02-23T09:01:29.127514363Z }
+2026-02-23T09:01:29.150274929Z [Model 4] DSE analyze failed: {
+2026-02-23T09:01:29.150302649Z   status: 400,
+2026-02-23T09:01:29.150307709Z   message: 'Request failed with status code 400',
+2026-02-23T09:01:29.150308479Z [COMPUTE] ========================================
+2026-02-23T09:01:29.150311079Z   data: {
+2026-02-23T09:01:29.15033636Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T09:01:29.15034149Z [COMPUTE] ========================================
+2026-02-23T09:01:29.15034465Z [FALLBACK] ========================================
+2026-02-23T09:01:29.1503471Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T09:01:29.15035057Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T09:01:29.15035328Z [FALLBACK] ========================================
+2026-02-23T09:01:29.15036046Z     error: 'Bad Request',
+2026-02-23T09:01:29.150363641Z     message: "Invalid equipment_type: 'displaychillers'. Must be one of the allowed types."
+2026-02-23T09:01:29.15036629Z   },
+2026-02-23T09:01:29.150370741Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T09:01:29.150375001Z }
+2026-02-23T09:01:29.150379101Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T09:01:29.151262309Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T09:01:29.151270799Z [FALLBACK] Model 1 payload: {
+2026-02-23T09:01:29.151273189Z   business_type: 'grocery',
+2026-02-23T09:01:29.151275289Z   sqft_m2: 80,
+2026-02-23T09:01:29.1512774Z   operating_hours_weekly: 119,
+2026-02-23T09:01:29.151279529Z   num_refrigeration_units: 8
+2026-02-23T09:01:29.1512816Z }
+2026-02-23T09:01:29.15128431Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T09:01:29.15128725Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T09:01:29.1512894Z   business_type: 'grocery'
+2026-02-23T09:01:29.15129147Z }
+2026-02-23T09:01:29.35290116Z [Model 2] DSE response received: {
+2026-02-23T09:01:29.352931421Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T09:01:29.352936991Z   has_lifetime_prediction: true
+2026-02-23T09:01:29.352940271Z }
+2026-02-23T09:01:29.352943701Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T09:01:29.352946901Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T09:01:29.352950321Z   has_lifetime_prediction: true
+2026-02-23T09:01:29.352953241Z }
+2026-02-23T09:01:29.352957342Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T09:01:29.352973922Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T09:01:29.352977842Z   target_coverage: '90%',
+2026-02-23T09:01:29.352981352Z   scaling_factor: '1.00',
+2026-02-23T09:01:29.352984542Z   recommended_panel_area_m2: '10.0',
+2026-02-23T09:01:29.352987912Z   predicted_generation_kwh: 3360,
+2026-02-23T09:01:29.352991932Z   system_cost: 6000
+2026-02-23T09:01:29.352995042Z }
+2026-02-23T09:01:29.352999293Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T09:01:29.353008553Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T09:01:29.353058244Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T09:01:29.353093155Z   diesel_fraction: '0.50',
+2026-02-23T09:01:29.353104095Z   diesel_kwh_monthly: 179,
+2026-02-23T09:01:29.353125955Z   diesel_liters_monthly: '71.5',
+2026-02-23T09:01:29.353130395Z   diesel_fuel_cost: 130,
+2026-02-23T09:01:29.353134185Z   diesel_maintenance_cost: 180,
+2026-02-23T09:01:29.353137996Z   blended_tariff: '0.94',
+2026-02-23T09:01:29.353141645Z   total_monthly_cost: 337
+2026-02-23T09:01:29.353145466Z }
+2026-02-23T09:01:29.353150216Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T09:01:29.35385992Z [FALLBACK] Model 3 payload: {
+2026-02-23T09:01:29.353866371Z   consumption_kwh: 357.37,
+2026-02-23T09:01:29.353868871Z   generation_kwh: 3360,
+2026-02-23T09:01:29.353871081Z   tariff_per_kwh: 0.9430521293720351,
+2026-02-23T09:01:29.353873341Z   system_cost_usd: 6000
+2026-02-23T09:01:29.353875441Z }
+2026-02-23T09:01:29.353877541Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T09:01:29.353879881Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T09:01:29.353881991Z   consumption_kwh: 357.37,
+2026-02-23T09:01:29.353884181Z   generation_kwh: 3360.4789628585177
+2026-02-23T09:01:29.353886281Z }
+2026-02-23T09:01:29.363943251Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 357.37 }
+2026-02-23T09:01:29.363963722Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 357.37 }
+2026-02-23T09:01:29.363968682Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T09:01:29.363980592Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T09:01:29.364024633Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T09:01:29.364027533Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T09:01:29.364030453Z   latitude: 6.5244,
+2026-02-23T09:01:29.364032493Z   longitude: 3.3792
+2026-02-23T09:01:29.364034633Z }
+2026-02-23T09:01:29.567929251Z [Model 3] DSE response received: { monthly_savings_usd: 337.02, roi_percentage: 67.4 }
+2026-02-23T09:01:29.567954852Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '337.02', roi_percentage: '67.4' }
+2026-02-23T09:01:29.567968142Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T09:01:29.567981672Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T09:01:29.567985852Z   roi_score: '50.0',
+2026-02-23T09:01:29.567989363Z   coverage_score: '30.0',
+2026-02-23T09:01:29.567992453Z   savings_score: '13.5',
+2026-02-23T09:01:29.567999583Z   viability_score: '93.5',
+2026-02-23T09:01:29.568002643Z   recommendation: 'High',
+2026-02-23T09:01:29.568005403Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:01:29.568008113Z }
+2026-02-23T09:01:29.568139516Z [FALLBACK] ========================================
+2026-02-23T09:01:29.568152666Z [FALLBACK] Fallback assessment complete
+2026-02-23T09:01:29.568183487Z [FALLBACK] Final results: {
+2026-02-23T09:01:29.568187197Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:01:29.568189737Z   deep_fallback_used: false,
+2026-02-23T09:01:29.568192777Z   viability_score: 93.5,
+2026-02-23T09:01:29.568195137Z   status: 'HIGHLY VIABLE',
+2026-02-23T09:01:29.568197517Z   recommendation: 'High',
+2026-02-23T09:01:29.568200127Z   energy_scenario: 'diesel_replacement',
+2026-02-23T09:01:29.568202707Z   has_lifetime_prediction: true
+2026-02-23T09:01:29.568205337Z }
+2026-02-23T09:01:29.568212017Z [FALLBACK] ========================================
+2026-02-23T09:01:29.568457572Z [ANALYZE] Analysis complete: {
+2026-02-23T09:01:29.568464413Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:01:29.568467102Z   business_name: 'Jenny Kitchen',
+2026-02-23T09:01:29.568469322Z   viability_score: 93.5,
+2026-02-23T09:01:29.568491443Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:01:29.568493823Z }
+2026-02-23T09:01:29.569143337Z 10.17.200.68 - - [23/Feb/2026:09:01:29 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6651 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:01:29.589984962Z [Model 2] DSE response received: {
+2026-02-23T09:01:29.590009112Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T09:01:29.590013892Z   has_lifetime_prediction: true
+2026-02-23T09:01:29.590017632Z }
+2026-02-23T09:01:29.590020892Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T09:01:29.590024003Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T09:01:29.590026963Z   has_lifetime_prediction: true
+2026-02-23T09:01:29.590029933Z }
+2026-02-23T09:01:29.590033903Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T09:01:29.591037314Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T09:01:29.591049584Z   target_coverage: '90%',
+2026-02-23T09:01:29.591052854Z   scaling_factor: '1.00',
+2026-02-23T09:01:29.591055984Z   recommended_panel_area_m2: '10.0',
+2026-02-23T09:01:29.591059384Z   predicted_generation_kwh: 3360,
+2026-02-23T09:01:29.591063005Z   system_cost: 6000
+2026-02-23T09:01:29.591085605Z }
+2026-02-23T09:01:29.591092805Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T09:01:29.591096595Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T09:01:29.591099685Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T09:01:29.591102815Z   diesel_fraction: '0.50',
+2026-02-23T09:01:29.591105535Z   diesel_kwh_monthly: 179,
+2026-02-23T09:01:29.591108695Z   diesel_liters_monthly: '71.5',
+2026-02-23T09:01:29.591111775Z   diesel_fuel_cost: 130,
+2026-02-23T09:01:29.591114886Z   diesel_maintenance_cost: 180,
+2026-02-23T09:01:29.591118136Z   blended_tariff: '0.94',
+2026-02-23T09:01:29.591121336Z   total_monthly_cost: 337
+2026-02-23T09:01:29.591127416Z }
+2026-02-23T09:01:29.591129616Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T09:01:29.591131636Z [FALLBACK] Model 3 payload: {
+2026-02-23T09:01:29.591133736Z   consumption_kwh: 357.37,
+2026-02-23T09:01:29.591135726Z   generation_kwh: 3360,
+2026-02-23T09:01:29.591137906Z   tariff_per_kwh: 0.9430521293720351,
+2026-02-23T09:01:29.591139936Z   system_cost_usd: 6000
+2026-02-23T09:01:29.591141916Z }
+2026-02-23T09:01:29.591144016Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T09:01:29.591146096Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T09:01:29.591148156Z   consumption_kwh: 357.37,
+2026-02-23T09:01:29.591150526Z   generation_kwh: 3360.4789628585177
+2026-02-23T09:01:29.591152556Z }
+2026-02-23T09:01:29.80199171Z [Model 3] DSE response received: { monthly_savings_usd: 337.02, roi_percentage: 67.4 }
+2026-02-23T09:01:29.80202251Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '337.02', roi_percentage: '67.4' }
+2026-02-23T09:01:29.802036461Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T09:01:29.802169883Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T09:01:29.802182214Z   roi_score: '50.0',
+2026-02-23T09:01:29.802190434Z   coverage_score: '30.0',
+2026-02-23T09:01:29.802194844Z   savings_score: '13.5',
+2026-02-23T09:01:29.802198594Z   viability_score: '93.5',
+2026-02-23T09:01:29.802202694Z   recommendation: 'High',
+2026-02-23T09:01:29.802206254Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:01:29.802210144Z }
+2026-02-23T09:01:29.802297886Z [FALLBACK] ========================================
+2026-02-23T09:01:29.802328677Z [FALLBACK] Fallback assessment complete
+2026-02-23T09:01:29.802339907Z [FALLBACK] Final results: {
+2026-02-23T09:01:29.802343277Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:01:29.802346147Z   deep_fallback_used: false,
+2026-02-23T09:01:29.802349297Z   viability_score: 93.5,
+2026-02-23T09:01:29.802352487Z   status: 'HIGHLY VIABLE',
+2026-02-23T09:01:29.802355357Z   recommendation: 'High',
+2026-02-23T09:01:29.802357997Z   energy_scenario: 'diesel_replacement',
+2026-02-23T09:01:29.802360698Z   has_lifetime_prediction: true
+2026-02-23T09:01:29.802363267Z }
+2026-02-23T09:01:29.802377158Z [FALLBACK] ========================================
+2026-02-23T09:01:29.802770156Z [ANALYZE] Analysis complete: {
+2026-02-23T09:01:29.802775546Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:01:29.802779896Z   business_name: 'Jenny Kitchen',
+2026-02-23T09:01:29.802783886Z   viability_score: 93.5,
+2026-02-23T09:01:29.802786916Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:01:29.802789086Z }
+2026-02-23T09:01:29.803321998Z 10.17.49.1 - - [23/Feb/2026:09:01:29 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6651 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:04:57.760863352Z 2026-02-23T09:04:57.760Z - GET /health - IP: 10.16.20.67
+2026-02-23T09:04:57.761564466Z 10.16.20.67 - - [23/Feb/2026:09:04:57 +0000] "GET /health HTTP/1.1" 200 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:04:58.957468005Z 2026-02-23T09:04:58.957Z - GET /favicon.ico - IP: 10.17.49.1
+2026-02-23T09:04:58.958350963Z 10.17.49.1 - - [23/Feb/2026:09:04:58 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:05:06.230789375Z 2026-02-23T09:05:06.230Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T09:05:06.231386507Z 10.17.200.68 - - [23/Feb/2026:09:05:06 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:10:11.055242817Z 2026-02-23T09:10:11.054Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T09:10:11.057563856Z 10.17.200.68 - - [23/Feb/2026:09:10:11 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:15:16.179383174Z 2026-02-23T09:15:16.179Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T09:15:16.182156242Z 10.16.20.67 - - [23/Feb/2026:09:15:16 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:17:40.117991869Z 2026-02-23T09:17:40.117Z - POST /api/v1/assessments/analyze - IP: 10.17.200.68
+2026-02-23T09:17:40.151321442Z [COMPUTE] Starting assessment computation: {
+2026-02-23T09:17:40.151336313Z   businessType: 'Bakery',
+2026-02-23T09:17:40.151340942Z   location: 'Surulere, Nigeria',
+2026-02-23T09:17:40.151345933Z   uses_diesel: true,
+2026-02-23T09:17:40.151351403Z   simulate_model4_failure: false,
+2026-02-23T09:17:40.151356213Z   simulate_deep_failure: false
+2026-02-23T09:17:40.151360823Z }
+2026-02-23T09:17:40.151365893Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T09:17:40.151384863Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T09:17:40.151397204Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T09:17:40.151403594Z   business_name: 'Christy Gold',
+2026-02-23T09:17:40.151415154Z   business_type: 'Bakery',
+2026-02-23T09:17:40.151418104Z   uses_diesel: true
+2026-02-23T09:17:40.151420194Z }
+2026-02-23T09:17:40.151422314Z 2026-02-23T09:17:40.122Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T09:17:40.151424474Z [COMPUTE] Starting assessment computation: {
+2026-02-23T09:17:40.151426484Z   businessType: 'Bakery',
+2026-02-23T09:17:40.151428515Z   location: 'Surulere, Nigeria',
+2026-02-23T09:17:40.151431704Z   uses_diesel: true,
+2026-02-23T09:17:40.151435024Z   simulate_model4_failure: false,
+2026-02-23T09:17:40.151438355Z   simulate_deep_failure: false
+2026-02-23T09:17:40.151441575Z }
+2026-02-23T09:17:40.151445135Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T09:17:40.151448445Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T09:17:40.151451645Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T09:17:40.151454985Z   business_name: 'Christy Gold',
+2026-02-23T09:17:40.151458595Z   business_type: 'Bakery',
+2026-02-23T09:17:40.151460975Z   uses_diesel: true
+2026-02-23T09:17:40.151463125Z }
+2026-02-23T09:17:40.453773111Z [Model 4] DSE analyze failed: {
+2026-02-23T09:17:40.453790412Z   status: 400,
+2026-02-23T09:17:40.453793092Z   message: 'Request failed with status code 400',
+2026-02-23T09:17:40.453795252Z   data: {
+2026-02-23T09:17:40.453797332Z     error: 'Bad Request',
+2026-02-23T09:17:40.453799862Z     message: "Invalid equipment_type: 'display_chiller'. Must be one of the allowed types."
+2026-02-23T09:17:40.453802942Z   },
+2026-02-23T09:17:40.453806612Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T09:17:40.453810452Z }
+2026-02-23T09:17:40.453813672Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T09:17:40.453848783Z [COMPUTE] ========================================
+2026-02-23T09:17:40.453851963Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T09:17:40.453854033Z [COMPUTE] ========================================
+2026-02-23T09:17:40.453856113Z [FALLBACK] ========================================
+2026-02-23T09:17:40.453858133Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T09:17:40.453860233Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T09:17:40.453862353Z [FALLBACK] ========================================
+2026-02-23T09:17:40.453865983Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T09:17:40.454250731Z [FALLBACK] Model 1 payload: {
+2026-02-23T09:17:40.454258861Z   business_type: 'butchery',
+2026-02-23T09:17:40.454262492Z   sqft_m2: 80,
+2026-02-23T09:17:40.454266192Z   operating_hours_weekly: 147,
+2026-02-23T09:17:40.454269752Z   num_refrigeration_units: 10
+2026-02-23T09:17:40.454273512Z }
+2026-02-23T09:17:40.454277152Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T09:17:40.454280622Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T09:17:40.454283842Z   business_type: 'butchery'
+2026-02-23T09:17:40.454287272Z }
+2026-02-23T09:17:40.455197521Z [COMPUTE] ========================================
+2026-02-23T09:17:40.455207661Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T09:17:40.455211451Z [COMPUTE] ========================================
+2026-02-23T09:17:40.455214981Z [FALLBACK] ========================================
+2026-02-23T09:17:40.455223901Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T09:17:40.455225672Z [Model 4] DSE analyze failed: {
+2026-02-23T09:17:40.455227292Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T09:17:40.455247512Z   status: 400,
+2026-02-23T09:17:40.455252762Z   message: 'Request failed with status code 400',
+2026-02-23T09:17:40.455257192Z   data: {
+2026-02-23T09:17:40.455261052Z     error: 'Bad Request',
+2026-02-23T09:17:40.455265012Z     message: "Invalid equipment_type: 'display_chiller'. Must be one of the allowed types."
+2026-02-23T09:17:40.455269273Z   },
+2026-02-23T09:17:40.455273633Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T09:17:40.455277383Z }
+2026-02-23T09:17:40.455281443Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T09:17:40.455290393Z [FALLBACK] ========================================
+2026-02-23T09:17:40.455303023Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T09:17:40.455311643Z [FALLBACK] Model 1 payload: {
+2026-02-23T09:17:40.455315794Z   business_type: 'butchery',
+2026-02-23T09:17:40.455319194Z   sqft_m2: 80,
+2026-02-23T09:17:40.455322534Z   operating_hours_weekly: 147,
+2026-02-23T09:17:40.455326164Z   num_refrigeration_units: 10
+2026-02-23T09:17:40.455329824Z }
+2026-02-23T09:17:40.455369815Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T09:17:40.455374995Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T09:17:40.455378115Z   business_type: 'butchery'
+2026-02-23T09:17:40.455381165Z }
+2026-02-23T09:17:40.656774213Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 422.45 }
+2026-02-23T09:17:40.656807003Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 422.45 }
+2026-02-23T09:17:40.656820994Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T09:17:40.656829024Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T09:17:40.656919586Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T09:17:40.656925736Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T09:17:40.656929636Z   latitude: 6.5244,
+2026-02-23T09:17:40.656932966Z   longitude: 3.3792
+2026-02-23T09:17:40.656936216Z }
+2026-02-23T09:17:40.666853062Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 422.45 }
+2026-02-23T09:17:40.666865313Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 422.45 }
+2026-02-23T09:17:40.666892623Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T09:17:40.666950454Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T09:17:40.667025526Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T09:17:40.667030396Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T09:17:40.667033026Z   latitude: 6.5244,
+2026-02-23T09:17:40.667035176Z   longitude: 3.3792
+2026-02-23T09:17:40.667037216Z }
+2026-02-23T09:17:40.873319126Z [Model 2] DSE response received: {
+2026-02-23T09:17:40.873338766Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T09:17:40.873354116Z   has_lifetime_prediction: true
+2026-02-23T09:17:40.873357606Z }
+2026-02-23T09:17:40.873360796Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T09:17:40.873363727Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T09:17:40.873366616Z   has_lifetime_prediction: true
+2026-02-23T09:17:40.873369607Z }
+2026-02-23T09:17:40.873373467Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T09:17:40.873376617Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T09:17:40.873388887Z   target_coverage: '90%',
+2026-02-23T09:17:40.873391897Z   scaling_factor: '1.00',
+2026-02-23T09:17:40.873394807Z   recommended_panel_area_m2: '10.0',
+2026-02-23T09:17:40.873397707Z   predicted_generation_kwh: 3360,
+2026-02-23T09:17:40.873401207Z   system_cost: 6000
+2026-02-23T09:17:40.873404007Z }
+2026-02-23T09:17:40.873407437Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T09:17:40.873410477Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T09:17:40.873413348Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T09:17:40.873416208Z   diesel_fraction: '0.33',
+2026-02-23T09:17:40.873419017Z   diesel_kwh_monthly: 141,
+2026-02-23T09:17:40.873421868Z   diesel_liters_monthly: '56.3',
+2026-02-23T09:17:40.873424818Z   diesel_fuel_cost: 97,
+2026-02-23T09:17:40.873427688Z   diesel_maintenance_cost: 120,
+2026-02-23T09:17:40.873430538Z   blended_tariff: '0.61',
+2026-02-23T09:17:40.873433478Z   total_monthly_cost: 259
+2026-02-23T09:17:40.873436278Z }
+2026-02-23T09:17:40.873439158Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T09:17:40.873445168Z [FALLBACK] Model 3 payload: {
+2026-02-23T09:17:40.873448068Z   consumption_kwh: 422.45,
+2026-02-23T09:17:40.873450788Z   generation_kwh: 3360,
+2026-02-23T09:17:40.873453628Z   tariff_per_kwh: 0.613476987989699,
+2026-02-23T09:17:40.873456458Z   system_cost_usd: 6000
+2026-02-23T09:17:40.873459298Z }
+2026-02-23T09:17:40.873462238Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T09:17:40.873465129Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T09:17:40.873467889Z   consumption_kwh: 422.45,
+2026-02-23T09:17:40.873470779Z   generation_kwh: 3360.4789628585177
+2026-02-23T09:17:40.873473589Z }
+2026-02-23T09:17:40.886797326Z [Model 2] DSE response received: {
+2026-02-23T09:17:40.886812306Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T09:17:40.886816616Z   has_lifetime_prediction: true
+2026-02-23T09:17:40.886819566Z }
+2026-02-23T09:17:40.886822526Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T09:17:40.886825986Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T09:17:40.886828987Z   has_lifetime_prediction: true
+2026-02-23T09:17:40.886835436Z }
+2026-02-23T09:17:40.886846557Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T09:17:40.886849657Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T09:17:40.886852917Z   target_coverage: '90%',
+2026-02-23T09:17:40.886856247Z   scaling_factor: '1.00',
+2026-02-23T09:17:40.886859517Z   recommended_panel_area_m2: '10.0',
+2026-02-23T09:17:40.886862377Z   predicted_generation_kwh: 3360,
+2026-02-23T09:17:40.886866017Z   system_cost: 6000
+2026-02-23T09:17:40.886869077Z }
+2026-02-23T09:17:40.886872607Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T09:17:40.886929038Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T09:17:40.886934629Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T09:17:40.886938759Z   diesel_fraction: '0.33',
+2026-02-23T09:17:40.886942249Z   diesel_kwh_monthly: 141,
+2026-02-23T09:17:40.886945639Z   diesel_liters_monthly: '56.3',
+2026-02-23T09:17:40.886949629Z   diesel_fuel_cost: 97,
+2026-02-23T09:17:40.886952949Z   diesel_maintenance_cost: 120,
+2026-02-23T09:17:40.886962239Z   blended_tariff: '0.61',
+2026-02-23T09:17:40.886965379Z   total_monthly_cost: 259
+2026-02-23T09:17:40.886968529Z }
+2026-02-23T09:17:40.88697251Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T09:17:40.8869967Z [FALLBACK] Model 3 payload: {
+2026-02-23T09:17:40.88700038Z   consumption_kwh: 422.45,
+2026-02-23T09:17:40.88700346Z   generation_kwh: 3360,
+2026-02-23T09:17:40.88700664Z   tariff_per_kwh: 0.613476987989699,
+2026-02-23T09:17:40.88700986Z   system_cost_usd: 6000
+2026-02-23T09:17:40.88701316Z }
+2026-02-23T09:17:40.8870167Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T09:17:40.88702002Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T09:17:40.88702302Z   consumption_kwh: 422.45,
+2026-02-23T09:17:40.887183534Z   generation_kwh: 3360.4789628585177
+2026-02-23T09:17:40.887190744Z }
+2026-02-23T09:17:41.092268758Z [Model 3] DSE response received: { monthly_savings_usd: 259.16, roi_percentage: 51.83 }
+2026-02-23T09:17:41.092288269Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '259.16', roi_percentage: '51.8' }
+2026-02-23T09:17:41.092292679Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T09:17:41.092296399Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T09:17:41.092300119Z   roi_score: '50.0',
+2026-02-23T09:17:41.092303719Z   coverage_score: '30.0',
+2026-02-23T09:17:41.092315929Z   savings_score: '10.4',
+2026-02-23T09:17:41.09231898Z   viability_score: '90.4',
+2026-02-23T09:17:41.092321969Z   recommendation: 'High',
+2026-02-23T09:17:41.09232486Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:17:41.09232774Z }
+2026-02-23T09:17:41.09233074Z [FALLBACK] ========================================
+2026-02-23T09:17:41.09233376Z [FALLBACK] Fallback assessment complete
+2026-02-23T09:17:41.09233687Z [FALLBACK] Final results: {
+2026-02-23T09:17:41.09233978Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:17:41.09234273Z   deep_fallback_used: false,
+2026-02-23T09:17:41.09234569Z   viability_score: 90.4,
+2026-02-23T09:17:41.09234886Z   status: 'HIGHLY VIABLE',
+2026-02-23T09:17:41.0923518Z   recommendation: 'High',
+2026-02-23T09:17:41.09235458Z   energy_scenario: 'diesel_replacement',
+2026-02-23T09:17:41.09235732Z   has_lifetime_prediction: true
+2026-02-23T09:17:41.09236011Z }
+2026-02-23T09:17:41.09236302Z [FALLBACK] ========================================
+2026-02-23T09:17:41.092366261Z [ANALYZE] Analysis complete: {
+2026-02-23T09:17:41.09236959Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:17:41.092372781Z   business_name: 'Christy Gold',
+2026-02-23T09:17:41.092375701Z   viability_score: 90.4,
+2026-02-23T09:17:41.092378791Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:17:41.092382071Z }
+2026-02-23T09:17:41.093260739Z 10.17.49.1 - - [23/Feb/2026:09:17:41 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6650 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:17:41.142978313Z [Model 3] DSE response received: { monthly_savings_usd: 259.16, roi_percentage: 51.83 }
+2026-02-23T09:17:41.143001813Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '259.16', roi_percentage: '51.8' }
+2026-02-23T09:17:41.143006174Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T09:17:41.143101925Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T09:17:41.143112896Z   roi_score: '50.0',
+2026-02-23T09:17:41.143117746Z   coverage_score: '30.0',
+2026-02-23T09:17:41.143120926Z   savings_score: '10.4',
+2026-02-23T09:17:41.143123816Z   viability_score: '90.4',
+2026-02-23T09:17:41.143126806Z   recommendation: 'High',
+2026-02-23T09:17:41.143129786Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:17:41.143132876Z }
+2026-02-23T09:17:41.143136896Z [FALLBACK] ========================================
+2026-02-23T09:17:41.143163747Z [FALLBACK] Fallback assessment complete
+2026-02-23T09:17:41.144482884Z [FALLBACK] Final results: {
+2026-02-23T09:17:41.144494494Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:17:41.144497905Z   deep_fallback_used: false,
+2026-02-23T09:17:41.144501694Z   viability_score: 90.4,
+2026-02-23T09:17:41.144504635Z   status: 'HIGHLY VIABLE',
+2026-02-23T09:17:41.144507855Z   recommendation: 'High',
+2026-02-23T09:17:41.144511965Z   energy_scenario: 'diesel_replacement',
+2026-02-23T09:17:41.144514975Z   has_lifetime_prediction: true
+2026-02-23T09:17:41.144517795Z }
+2026-02-23T09:17:41.144521395Z [FALLBACK] ========================================
+2026-02-23T09:17:41.144524705Z [ANALYZE] Analysis complete: {
+2026-02-23T09:17:41.144527655Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:17:41.144530675Z   business_name: 'Christy Gold',
+2026-02-23T09:17:41.144533845Z   viability_score: 90.4,
+2026-02-23T09:17:41.144536795Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:17:41.144539955Z }
+2026-02-23T09:17:41.144543726Z 10.17.200.68 - - [23/Feb/2026:09:17:41 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6650 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:20:19.938137775Z 2026-02-23T09:20:19.937Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T09:20:19.938923992Z 10.20.239.2 - - [23/Feb/2026:09:20:19 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:25:23.567532196Z 2026-02-23T09:25:23.566Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T09:25:23.568090438Z 10.17.200.68 - - [23/Feb/2026:09:25:23 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:30:30.873633084Z 2026-02-23T09:30:30.873Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T09:30:30.87442851Z 10.20.239.2 - - [23/Feb/2026:09:30:30 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:35:37.96680835Z 2026-02-23T09:35:37.966Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T09:35:37.968361572Z 10.17.49.1 - - [23/Feb/2026:09:35:37 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:40:45.545773158Z 2026-02-23T09:40:45.545Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T09:40:45.546402462Z 10.17.49.1 - - [23/Feb/2026:09:40:45 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:45:49.956693342Z 2026-02-23T09:45:49.955Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T09:45:49.957378267Z 10.17.49.1 - - [23/Feb/2026:09:45:49 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:50:56.964910985Z 2026-02-23T09:50:56.964Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T09:50:56.99017412Z 10.16.20.67 - - [23/Feb/2026:09:50:56 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:56:01.927416801Z 2026-02-23T09:56:01.925Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T09:56:01.943705336Z 10.20.239.2 - - [23/Feb/2026:09:56:01 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T09:56:25.107089724Z 2026-02-23T09:56:25.106Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T09:56:25.111659298Z [COMPUTE] Starting assessment computation: {
+2026-02-23T09:56:25.111679269Z   businessType: 'butchery',
+2026-02-23T09:56:25.111685119Z   location: 'Nairobi, Kenya',
+2026-02-23T09:56:25.111691769Z   uses_diesel: false,
+2026-02-23T09:56:25.111697209Z   simulate_model4_failure: false,
+2026-02-23T09:56:25.111701939Z   simulate_deep_failure: false
+2026-02-23T09:56:25.111706699Z }
+2026-02-23T09:56:25.11171853Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T09:56:25.11172199Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T09:56:25.11172637Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T09:56:25.11172957Z   business_name: 'hula hotel',
+2026-02-23T09:56:25.11173273Z   business_type: 'butchery',
+2026-02-23T09:56:25.11173587Z   uses_diesel: false
+2026-02-23T09:56:25.11173933Z }
+2026-02-23T09:56:25.395221215Z [Model 4] DSE analyze failed: {
+2026-02-23T09:56:25.395229515Z [COMPUTE] ========================================
+2026-02-23T09:56:25.395243505Z   status: 400,
+2026-02-23T09:56:25.395251576Z   message: 'Request failed with status code 400',
+2026-02-23T09:56:25.395256216Z   data: {
+2026-02-23T09:56:25.395260496Z     error: 'Bad Request',
+2026-02-23T09:56:25.395265986Z     message: "Invalid equipment_type: 'display_chiller'. Must be one of the allowed types."
+2026-02-23T09:56:25.395278166Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T09:56:25.395284686Z [COMPUTE] ========================================
+2026-02-23T09:56:25.395291037Z   },
+2026-02-23T09:56:25.395296257Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T09:56:25.395300937Z }
+2026-02-23T09:56:25.395305217Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T09:56:25.395315997Z [FALLBACK] ========================================
+2026-02-23T09:56:25.395320497Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T09:56:25.395325657Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T09:56:25.395330027Z [FALLBACK] ========================================
+2026-02-23T09:56:25.395334437Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T09:56:25.395339127Z [FALLBACK] Model 1 payload: {
+2026-02-23T09:56:25.395345178Z   business_type: 'butchery',
+2026-02-23T09:56:25.395349498Z   sqft_m2: 120,
+2026-02-23T09:56:25.395353838Z   operating_hours_weekly: 46.66666666666667,
+2026-02-23T09:56:25.395358198Z   num_refrigeration_units: 4
+2026-02-23T09:56:25.395362418Z }
+2026-02-23T09:56:25.395366598Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T09:56:25.395371228Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T09:56:25.395375308Z   business_type: 'butchery'
+2026-02-23T09:56:25.395379328Z }
+2026-02-23T09:56:25.608332474Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 133.08 }
+2026-02-23T09:56:25.608355364Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 133.08 }
+2026-02-23T09:56:25.608368315Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T09:56:25.608385205Z [FALLBACK] Model 2 payload: { latitude: -1.2921, longitude: 36.8219, include_lifetime: true }
+2026-02-23T09:56:25.608443826Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T09:56:25.608453406Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T09:56:25.608471947Z   latitude: -1.2921,
+2026-02-23T09:56:25.608476367Z   longitude: 36.8219
+2026-02-23T09:56:25.608480347Z }
+2026-02-23T09:56:25.834518282Z [Model 2] DSE response received: {
+2026-02-23T09:56:25.834546342Z   year_1_generation_kwh: 3759.088422854741,
+2026-02-23T09:56:25.834552412Z   has_lifetime_prediction: true
+2026-02-23T09:56:25.834556712Z }
+2026-02-23T09:56:25.834561143Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T09:56:25.834565283Z   baseGeneration10m2: 3759.088422854741,
+2026-02-23T09:56:25.834569343Z   has_lifetime_prediction: true
+2026-02-23T09:56:25.834573363Z }
+2026-02-23T09:56:25.834577833Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T09:56:25.834607264Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T09:56:25.834615354Z   target_coverage: '90%',
+2026-02-23T09:56:25.834618744Z   scaling_factor: '1.00',
+2026-02-23T09:56:25.834622184Z   recommended_panel_area_m2: '10.0',
+2026-02-23T09:56:25.834625324Z   predicted_generation_kwh: 3759,
+2026-02-23T09:56:25.834629524Z   system_cost: 6000
+2026-02-23T09:56:25.834632834Z }
+2026-02-23T09:56:25.834636564Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T09:56:25.834639964Z [FALLBACK] Grid-only scenario, skipping diesel economics
+2026-02-23T09:56:25.834642994Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T09:56:25.834651685Z [FALLBACK] Model 3 payload: {
+2026-02-23T09:56:25.834654754Z   consumption_kwh: 133.08,
+2026-02-23T09:56:25.834657945Z   generation_kwh: 3759,
+2026-02-23T09:56:25.834661395Z   tariff_per_kwh: 0.15,
+2026-02-23T09:56:25.834664245Z   system_cost_usd: 6000
+2026-02-23T09:56:25.834667135Z }
+2026-02-23T09:56:25.834713476Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T09:56:25.834720756Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T09:56:25.834724386Z   consumption_kwh: 133.08,
+2026-02-23T09:56:25.834727186Z   generation_kwh: 3759.088422854741
+2026-02-23T09:56:25.834729986Z }
+2026-02-23T09:56:26.049693773Z [Model 3] DSE response received: { monthly_savings_usd: 19.96, roi_percentage: 3.99 }
+2026-02-23T09:56:26.049713774Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '19.96', roi_percentage: '4.0' }
+2026-02-23T09:56:26.049732624Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T09:56:26.049737994Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T09:56:26.049742844Z   roi_score: '12.0',
+2026-02-23T09:56:26.049746814Z   coverage_score: '30.0',
+2026-02-23T09:56:26.049749985Z   savings_score: '0.8',
+2026-02-23T09:56:26.049753045Z   viability_score: '42.8',
+2026-02-23T09:56:26.049756054Z   recommendation: 'Medium',
+2026-02-23T09:56:26.049759225Z   status: 'MODERATELY VIABLE'
+2026-02-23T09:56:26.049762485Z }
+2026-02-23T09:56:26.049765415Z [FALLBACK] ========================================
+2026-02-23T09:56:26.049767925Z [FALLBACK] Fallback assessment complete
+2026-02-23T09:56:26.049770385Z [FALLBACK] Final results: {
+2026-02-23T09:56:26.049772865Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:56:26.049775455Z   deep_fallback_used: false,
+2026-02-23T09:56:26.049778295Z   viability_score: 42.8,
+2026-02-23T09:56:26.049781375Z   status: 'MODERATELY VIABLE',
+2026-02-23T09:56:26.049784715Z   recommendation: 'Medium',
+2026-02-23T09:56:26.049787635Z   energy_scenario: 'grid_only',
+2026-02-23T09:56:26.049790535Z   has_lifetime_prediction: true
+2026-02-23T09:56:26.049793675Z }
+2026-02-23T09:56:26.049796775Z [FALLBACK] ========================================
+2026-02-23T09:56:26.049809476Z [ANALYZE] Analysis complete: {
+2026-02-23T09:56:26.049813016Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:56:26.049816116Z   business_name: 'hula hotel',
+2026-02-23T09:56:26.049819246Z   viability_score: 42.8,
+2026-02-23T09:56:26.049822266Z   status: 'MODERATELY VIABLE'
+2026-02-23T09:56:26.049825136Z }
+2026-02-23T09:56:26.050557951Z 10.17.49.1 - - [23/Feb/2026:09:56:26 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6480 "https://solarsense-ai.vercel.app/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:56:28.548245305Z 2026-02-23T09:56:28.548Z - POST /api/v1/assessments/analyze - IP: 10.17.200.68
+2026-02-23T09:56:28.550203205Z [COMPUTE] Starting assessment computation: {
+2026-02-23T09:56:28.550218265Z   businessType: 'butchery',
+2026-02-23T09:56:28.550221565Z   location: 'Surulere, Nigeria',
+2026-02-23T09:56:28.550224565Z   uses_diesel: true,
+2026-02-23T09:56:28.550227005Z   simulate_model4_failure: false,
+2026-02-23T09:56:28.550229585Z   simulate_deep_failure: false
+2026-02-23T09:56:28.550352798Z }
+2026-02-23T09:56:28.550368588Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T09:56:28.550372078Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T09:56:28.550375158Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T09:56:28.550377818Z   business_name: 'Gold',
+2026-02-23T09:56:28.550380268Z   business_type: 'butchery',
+2026-02-23T09:56:28.550382589Z   uses_diesel: true
+2026-02-23T09:56:28.550385109Z }
+2026-02-23T09:56:28.801751114Z 2026-02-23T09:56:28.801Z - POST /api/v1/assessments/analyze - IP: 10.16.20.67
+2026-02-23T09:56:28.805520011Z [COMPUTE] Starting assessment computation: {
+2026-02-23T09:56:28.805539372Z   businessType: 'butchery',
+2026-02-23T09:56:28.805543742Z   location: 'Surulere, Nigeria',
+2026-02-23T09:56:28.805548692Z   uses_diesel: true,
+2026-02-23T09:56:28.805552752Z   simulate_model4_failure: false,
+2026-02-23T09:56:28.805556452Z   simulate_deep_failure: false
+2026-02-23T09:56:28.805560262Z }
+2026-02-23T09:56:28.805564032Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T09:56:28.805574762Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T09:56:28.805579613Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T09:56:28.805583233Z   business_name: 'Gold',
+2026-02-23T09:56:28.805586983Z   business_type: 'butchery',
+2026-02-23T09:56:28.805590673Z   uses_diesel: true
+2026-02-23T09:56:28.805594513Z }
+2026-02-23T09:56:28.933183055Z [Model 4] DSE analyze failed: {
+2026-02-23T09:56:28.933201685Z   status: 400,
+2026-02-23T09:56:28.933206375Z   message: 'Request failed with status code 400',
+2026-02-23T09:56:28.933209385Z   data: {
+2026-02-23T09:56:28.933212135Z     error: 'Bad Request',
+2026-02-23T09:56:28.933216475Z     message: "Invalid equipment_type: 'lighting'. Must be one of the allowed types."
+2026-02-23T09:56:28.933219145Z   },
+2026-02-23T09:56:28.933222415Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T09:56:28.933225295Z }
+2026-02-23T09:56:28.933228135Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T09:56:28.933287827Z [COMPUTE] ========================================
+2026-02-23T09:56:28.933292547Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T09:56:28.933295397Z [COMPUTE] ========================================
+2026-02-23T09:56:28.933298227Z [FALLBACK] ========================================
+2026-02-23T09:56:28.933300987Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T09:56:28.933336738Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T09:56:28.933339988Z [FALLBACK] ========================================
+2026-02-23T09:56:28.933342878Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T09:56:28.933351628Z [FALLBACK] Model 1 payload: {
+2026-02-23T09:56:28.933354828Z   business_type: 'butchery',
+2026-02-23T09:56:28.933357678Z   sqft_m2: 60,
+2026-02-23T09:56:28.933360538Z   operating_hours_weekly: 101.5,
+2026-02-23T09:56:28.933390279Z   num_refrigeration_units: 10
+2026-02-23T09:56:28.933393589Z }
+2026-02-23T09:56:28.933400489Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T09:56:28.933403779Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T09:56:28.933406549Z   business_type: 'butchery'
+2026-02-23T09:56:28.933409309Z }
+2026-02-23T09:56:29.089503087Z [Model 4] DSE analyze failed: {
+2026-02-23T09:56:29.089522327Z   status: 400,
+2026-02-23T09:56:29.089527287Z   message: 'Request failed with status code 400',
+2026-02-23T09:56:29.089531467Z   data: {
+2026-02-23T09:56:29.089532637Z [COMPUTE] ========================================
+2026-02-23T09:56:29.089536317Z     error: 'Bad Request',
+2026-02-23T09:56:29.089540877Z     message: "Invalid equipment_type: 'lighting'. Must be one of the allowed types."
+2026-02-23T09:56:29.089544837Z   },
+2026-02-23T09:56:29.089551868Z [COMPUTE] FALLBACK MODE: Using per-model flow
+2026-02-23T09:56:29.089555378Z [COMPUTE] ========================================
+2026-02-23T09:56:29.089558168Z [FALLBACK] ========================================
+2026-02-23T09:56:29.089565448Z [FALLBACK] Starting per-model fallback flow
+2026-02-23T09:56:29.089571448Z [FALLBACK] Flow: Model 1 → Model 2 → Model 3 → System Sizing → Diesel Economics → Viability Scoring
+2026-02-23T09:56:29.089573528Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze'
+2026-02-23T09:56:29.089577278Z [FALLBACK] ========================================
+2026-02-23T09:56:29.089577998Z }
+2026-02-23T09:56:29.089584278Z [COMPUTE] Model 4 response invalid or incomplete, triggering fallback
+2026-02-23T09:56:29.089600158Z [FALLBACK] Step 2: Calling Model 1 (Energy Consumption Estimation)
+2026-02-23T09:56:29.08968598Z [FALLBACK] Model 1 payload: {
+2026-02-23T09:56:29.089690051Z   business_type: 'butchery',
+2026-02-23T09:56:29.089692971Z   sqft_m2: 60,
+2026-02-23T09:56:29.0896958Z   operating_hours_weekly: 101.5,
+2026-02-23T09:56:29.089698511Z   num_refrigeration_units: 10
+2026-02-23T09:56:29.089701251Z }
+2026-02-23T09:56:29.089704651Z [Model 1] Calling DSE estimate-consumption: {
+2026-02-23T09:56:29.089707881Z   url: 'https://dse-models-production.up.railway.app/api/v1/estimate-consumption',
+2026-02-23T09:56:29.089710711Z   business_type: 'butchery'
+2026-02-23T09:56:29.089713681Z }
+2026-02-23T09:56:29.148903177Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 420.06 }
+2026-02-23T09:56:29.14905914Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 420.06 }
+2026-02-23T09:56:29.149084991Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T09:56:29.149102321Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T09:56:29.149198123Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T09:56:29.149203913Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T09:56:29.149207914Z   latitude: 6.5244,
+2026-02-23T09:56:29.149210574Z   longitude: 3.3792
+2026-02-23T09:56:29.149225824Z }
+2026-02-23T09:56:29.293177312Z [Model 1] DSE response received: { estimated_consumption_kwh_monthly: 420.06 }
+2026-02-23T09:56:29.293214203Z [FALLBACK] ✓ Model 1 succeeded: { consumption_kwh_monthly: 420.06 }
+2026-02-23T09:56:29.293221553Z [FALLBACK] Step 3: Calling Model 2 (Solar Generation Prediction)
+2026-02-23T09:56:29.293235413Z [FALLBACK] Model 2 payload: { latitude: 6.5244, longitude: 3.3792, include_lifetime: true }
+2026-02-23T09:56:29.293282524Z [Model 2] Calling DSE predict-generation: {
+2026-02-23T09:56:29.293287274Z   url: 'https://dse-models-production.up.railway.app/api/v1/predict-generation',
+2026-02-23T09:56:29.293292324Z   latitude: 6.5244,
+2026-02-23T09:56:29.293296604Z   longitude: 3.3792
+2026-02-23T09:56:29.293300624Z }
+2026-02-23T09:56:29.369245925Z [Model 2] DSE response received: {
+2026-02-23T09:56:29.369265135Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T09:56:29.369270485Z   has_lifetime_prediction: true
+2026-02-23T09:56:29.369274896Z }
+2026-02-23T09:56:29.369278746Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T09:56:29.369282996Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T09:56:29.369286696Z   has_lifetime_prediction: true
+2026-02-23T09:56:29.369290306Z }
+2026-02-23T09:56:29.369310256Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T09:56:29.369369318Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T09:56:29.369375798Z   target_coverage: '90%',
+2026-02-23T09:56:29.369378978Z   scaling_factor: '1.00',
+2026-02-23T09:56:29.369382088Z   recommended_panel_area_m2: '10.0',
+2026-02-23T09:56:29.369384968Z   predicted_generation_kwh: 3360,
+2026-02-23T09:56:29.369388538Z   system_cost: 6000
+2026-02-23T09:56:29.369391748Z }
+2026-02-23T09:56:29.369395398Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T09:56:29.369398608Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T09:56:29.369401888Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T09:56:29.369405018Z   diesel_fraction: '0.50',
+2026-02-23T09:56:29.369408018Z   diesel_kwh_monthly: 210,
+2026-02-23T09:56:29.369411048Z   diesel_liters_monthly: '84.0',
+2026-02-23T09:56:29.369414359Z   diesel_fuel_cost: 79,
+2026-02-23T09:56:29.369417539Z   diesel_maintenance_cost: 180,
+2026-02-23T09:56:29.369420488Z   blended_tariff: '0.69',
+2026-02-23T09:56:29.369423469Z   total_monthly_cost: 290
+2026-02-23T09:56:29.369426529Z }
+2026-02-23T09:56:29.369429469Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T09:56:29.369442939Z [FALLBACK] Model 3 payload: {
+2026-02-23T09:56:29.369446489Z   consumption_kwh: 420.06,
+2026-02-23T09:56:29.369449649Z   generation_kwh: 3360,
+2026-02-23T09:56:29.369452969Z   tariff_per_kwh: 0.6910102128267391,
+2026-02-23T09:56:29.369455829Z   system_cost_usd: 6000
+2026-02-23T09:56:29.369458949Z }
+2026-02-23T09:56:29.36947633Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T09:56:29.36949304Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T09:56:29.36949709Z   consumption_kwh: 420.06,
+2026-02-23T09:56:29.36949972Z   generation_kwh: 3360.4789628585177
+2026-02-23T09:56:29.36950239Z }
+2026-02-23T09:56:29.570019201Z [Model 2] DSE response received: {
+2026-02-23T09:56:29.578157598Z   year_1_generation_kwh: 3360.4789628585177,
+2026-02-23T09:56:29.578167768Z   has_lifetime_prediction: true
+2026-02-23T09:56:29.578170758Z }
+2026-02-23T09:56:29.578173448Z [FALLBACK] ✓ Model 2 succeeded: {
+2026-02-23T09:56:29.578175978Z   baseGeneration10m2: 3360.4789628585177,
+2026-02-23T09:56:29.578189658Z   has_lifetime_prediction: true
+2026-02-23T09:56:29.578192389Z }
+2026-02-23T09:56:29.578195758Z [FALLBACK] Step 4: Intelligent System Sizing (90% coverage target)
+2026-02-23T09:56:29.578220129Z [FALLBACK] ✓ System sizing complete: {
+2026-02-23T09:56:29.578223129Z   target_coverage: '90%',
+2026-02-23T09:56:29.578226059Z   scaling_factor: '1.00',
+2026-02-23T09:56:29.578228579Z   recommended_panel_area_m2: '10.0',
+2026-02-23T09:56:29.578231149Z   predicted_generation_kwh: 3360,
+2026-02-23T09:56:29.578234229Z   system_cost: 6000
+2026-02-23T09:56:29.578236779Z }
+2026-02-23T09:56:29.57823999Z [FALLBACK] Step 5: Diesel Economics (if applicable)
+2026-02-23T09:56:29.57824259Z [FALLBACK] Computing diesel economics for diesel replacement scenario
+2026-02-23T09:56:29.57825389Z [FALLBACK] ✓ Diesel economics computed: {
+2026-02-23T09:56:29.57825669Z   diesel_fraction: '0.50',
+2026-02-23T09:56:29.57825915Z   diesel_kwh_monthly: 210,
+2026-02-23T09:56:29.5782616Z   diesel_liters_monthly: '84.0',
+2026-02-23T09:56:29.57826403Z   diesel_fuel_cost: 79,
+2026-02-23T09:56:29.57826676Z   diesel_maintenance_cost: 180,
+2026-02-23T09:56:29.5782692Z   blended_tariff: '0.69',
+2026-02-23T09:56:29.57827176Z   total_monthly_cost: 290
+2026-02-23T09:56:29.57827418Z }
+2026-02-23T09:56:29.57827678Z [FALLBACK] Step 6: Calling Model 3 (ROI Calculation)
+2026-02-23T09:56:29.57827923Z [FALLBACK] Model 3 payload: {
+2026-02-23T09:56:29.57828163Z   consumption_kwh: 420.06,
+2026-02-23T09:56:29.57828411Z   generation_kwh: 3360,
+2026-02-23T09:56:29.57828667Z   tariff_per_kwh: 0.6910102128267391,
+2026-02-23T09:56:29.57828914Z   system_cost_usd: 6000
+2026-02-23T09:56:29.57829158Z }
+2026-02-23T09:56:29.57829402Z [Model 3] Calling DSE calculate-roi: {
+2026-02-23T09:56:29.578296601Z   url: 'https://dse-models-production.up.railway.app/api/v1/calculate-roi',
+2026-02-23T09:56:29.578299061Z   consumption_kwh: 420.06,
+2026-02-23T09:56:29.578301581Z   generation_kwh: 3360.4789628585177
+2026-02-23T09:56:29.578304061Z }
+2026-02-23T09:56:29.578307291Z [Model 3] DSE response received: { monthly_savings_usd: 290.27, roi_percentage: 58.05 }
+2026-02-23T09:56:29.578309791Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '290.27', roi_percentage: '58.0' }
+2026-02-23T09:56:29.578312251Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T09:56:29.578314771Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T09:56:29.578317221Z   roi_score: '50.0',
+2026-02-23T09:56:29.578319671Z   coverage_score: '30.0',
+2026-02-23T09:56:29.578322201Z   savings_score: '11.6',
+2026-02-23T09:56:29.578324701Z   viability_score: '91.6',
+2026-02-23T09:56:29.578327171Z   recommendation: 'High',
+2026-02-23T09:56:29.578329581Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:56:29.578332251Z }
+2026-02-23T09:56:29.578334961Z [FALLBACK] ========================================
+2026-02-23T09:56:29.578337581Z [FALLBACK] Fallback assessment complete
+2026-02-23T09:56:29.578340232Z [FALLBACK] Final results: {
+2026-02-23T09:56:29.578342852Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:56:29.578345512Z   deep_fallback_used: false,
+2026-02-23T09:56:29.578348172Z   viability_score: 91.6,
+2026-02-23T09:56:29.578350732Z   status: 'HIGHLY VIABLE',
+2026-02-23T09:56:29.578353292Z   recommendation: 'High',
+2026-02-23T09:56:29.578355932Z   energy_scenario: 'diesel_replacement',
+2026-02-23T09:56:29.578358602Z   has_lifetime_prediction: true
+2026-02-23T09:56:29.578361142Z }
+2026-02-23T09:56:29.578363772Z [FALLBACK] ========================================
+2026-02-23T09:56:29.578369132Z [ANALYZE] Analysis complete: {
+2026-02-23T09:56:29.578379102Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:56:29.578382582Z   business_name: 'Gold',
+2026-02-23T09:56:29.578385213Z   viability_score: 91.6,
+2026-02-23T09:56:29.578387693Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:56:29.578390253Z }
+2026-02-23T09:56:29.578395273Z 10.17.200.68 - - [23/Feb/2026:09:56:29 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6630 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T09:56:29.778589786Z [Model 3] DSE response received: { monthly_savings_usd: 290.27, roi_percentage: 58.05 }
+2026-02-23T09:56:29.778613477Z [FALLBACK] ✓ Model 3 succeeded: { monthly_savings: '290.27', roi_percentage: '58.0' }
+2026-02-23T09:56:29.778618787Z [FALLBACK] Step 7: Viability Scoring (matching DSE formula)
+2026-02-23T09:56:29.779975985Z [FALLBACK] ✓ Viability scoring complete: {
+2026-02-23T09:56:29.779988035Z   roi_score: '50.0',
+2026-02-23T09:56:29.779991975Z   coverage_score: '30.0',
+2026-02-23T09:56:29.779994825Z   savings_score: '11.6',
+2026-02-23T09:56:29.779997485Z   viability_score: '91.6',
+2026-02-23T09:56:29.780000205Z   recommendation: 'High',
+2026-02-23T09:56:29.780003085Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:56:29.780006005Z }
+2026-02-23T09:56:29.780009396Z [FALLBACK] ========================================
+2026-02-23T09:56:29.780012145Z [FALLBACK] Fallback assessment complete
+2026-02-23T09:56:29.780014816Z [FALLBACK] Final results: {
+2026-02-23T09:56:29.780017576Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:56:29.780020216Z   deep_fallback_used: false,
+2026-02-23T09:56:29.780022926Z   viability_score: 91.6,
+2026-02-23T09:56:29.780025536Z   status: 'HIGHLY VIABLE',
+2026-02-23T09:56:29.780028176Z   recommendation: 'High',
+2026-02-23T09:56:29.780030836Z   energy_scenario: 'diesel_replacement',
+2026-02-23T09:56:29.780033586Z   has_lifetime_prediction: true
+2026-02-23T09:56:29.780036176Z }
+2026-02-23T09:56:29.780038856Z [FALLBACK] ========================================
+2026-02-23T09:56:29.780041516Z [ANALYZE] Analysis complete: {
+2026-02-23T09:56:29.780044266Z   source: 'BACKEND_FALLBACK',
+2026-02-23T09:56:29.780046996Z   business_name: 'Gold',
+2026-02-23T09:56:29.780049706Z   viability_score: 91.6,
+2026-02-23T09:56:29.780052266Z   status: 'HIGHLY VIABLE'
+2026-02-23T09:56:29.780054866Z }
+2026-02-23T09:56:29.780059746Z 10.16.20.67 - - [23/Feb/2026:09:56:29 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6630 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+2026-02-23T10:01:11.690044865Z 2026-02-23T10:01:11.689Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T10:01:11.690757419Z 10.17.200.68 - - [23/Feb/2026:10:01:11 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:06:16.351554341Z 2026-02-23T10:06:16.351Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T10:06:16.353895019Z 10.17.200.68 - - [23/Feb/2026:10:06:16 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:11:20.605868344Z 2026-02-23T10:11:20.605Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T10:11:20.628228955Z 10.20.239.2 - - [23/Feb/2026:10:11:20 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:16:23.875431866Z 2026-02-23T10:16:23.875Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T10:16:23.876646831Z 10.16.20.67 - - [23/Feb/2026:10:16:23 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:21:30.355884386Z 2026-02-23T10:21:30.355Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T10:21:30.362563213Z 10.16.20.67 - - [23/Feb/2026:10:21:30 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:22:35.966566329Z 2026-02-23T10:22:35.966Z - GET / - IP: 10.17.49.1
+2026-02-23T10:22:36.03637857Z 10.17.49.1 - - [23/Feb/2026:10:22:36 +0000] "GET / HTTP/1.1" 404 139 "https://securityheaders.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 SecurityHeaders"
+2026-02-23T10:26:34.305020535Z 2026-02-23T10:26:34.304Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T10:26:34.306591568Z 10.17.200.68 - - [23/Feb/2026:10:26:34 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:31:39.030463103Z 2026-02-23T10:31:39.030Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T10:31:39.031101597Z 10.20.239.2 - - [23/Feb/2026:10:31:39 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:35:32.001724699Z 2026-02-23T10:35:32.001Z - GET / - IP: 10.16.20.67
+2026-02-23T10:35:32.004329524Z 10.16.20.67 - - [23/Feb/2026:10:35:32 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+2026-02-23T10:35:32.691672053Z 2026-02-23T10:35:32.686Z - GET / - IP: 10.17.49.1
+2026-02-23T10:35:32.693381439Z 10.17.49.1 - - [23/Feb/2026:10:35:32 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3669.0 Safari/537.36"
+2026-02-23T10:35:40.928001841Z 2026-02-23T10:35:40.927Z - GET / - IP: 10.20.239.2
+2026-02-23T10:35:40.928663615Z 10.20.239.2 - - [23/Feb/2026:10:35:40 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3669.0 Safari/537.36"
+2026-02-23T10:35:44.471144751Z 2026-02-23T10:35:44.470Z - GET / - IP: 10.17.49.1
+2026-02-23T10:35:44.471718563Z 10.17.49.1 - - [23/Feb/2026:10:35:44 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3669.0 Safari/537.36"
+2026-02-23T10:35:45.926782504Z 2026-02-23T10:35:45.926Z - GET / - IP: 10.17.49.1
+2026-02-23T10:35:45.927767105Z 10.17.49.1 - - [23/Feb/2026:10:35:45 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3669.0 Safari/537.36"
+2026-02-23T10:35:46.242465252Z 2026-02-23T10:35:46.241Z - GET / - IP: 10.16.20.67
+2026-02-23T10:35:46.242486882Z 10.16.20.67 - - [23/Feb/2026:10:35:46 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+2026-02-23T10:36:45.860965353Z 2026-02-23T10:36:45.860Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T10:36:45.861589046Z 10.20.239.2 - - [23/Feb/2026:10:36:45 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:41:51.005833419Z 2026-02-23T10:41:51.005Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T10:41:51.006262238Z 10.17.49.1 - - [23/Feb/2026:10:41:51 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:46:54.968173944Z 2026-02-23T10:46:54.966Z - HEAD /health - IP: 10.16.20.67
+2026-02-23T10:46:54.968751746Z 10.16.20.67 - - [23/Feb/2026:10:46:54 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:51:59.620515216Z 2026-02-23T10:51:59.620Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T10:51:59.624040279Z 10.17.49.1 - - [23/Feb/2026:10:51:59 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T10:57:05.376900147Z 2026-02-23T10:57:05.376Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T10:57:05.377476338Z 10.17.200.68 - - [23/Feb/2026:10:57:05 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:02:11.098182595Z 2026-02-23T11:02:11.097Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T11:02:11.099059033Z 10.17.49.1 - - [23/Feb/2026:11:02:11 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:07:15.739239969Z 2026-02-23T11:07:15.739Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T11:07:15.763227976Z 10.20.239.2 - - [23/Feb/2026:11:07:15 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:12:18.733962403Z 2026-02-23T11:12:18.732Z - HEAD /health - IP: 10.17.49.1
+2026-02-23T11:12:18.75309577Z 10.17.49.1 - - [23/Feb/2026:11:12:18 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:13:34.099154946Z 2026-02-23T11:13:34.098Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T11:13:34.28265657Z [COMPUTE] Starting assessment computation: {
+2026-02-23T11:13:34.408835587Z   businessType: 'grocery',
+2026-02-23T11:13:34.408849327Z   location: 'Lagos, Nigeria',
+2026-02-23T11:13:34.408854717Z   uses_diesel: true,
+2026-02-23T11:13:34.408859457Z   simulate_model4_failure: false,
+2026-02-23T11:13:34.408863587Z   simulate_deep_failure: false
+2026-02-23T11:13:34.408867717Z }
+2026-02-23T11:13:34.408884888Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T11:13:34.408889088Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T11:13:34.408893818Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T11:13:34.408897858Z   business_name: 'Joes bakery',
+2026-02-23T11:13:34.408901998Z   business_type: 'grocery',
+2026-02-23T11:13:34.408906288Z   uses_diesel: true
+2026-02-23T11:13:34.408910358Z }
+2026-02-23T11:13:36.27162974Z [Model 4] DSE analyze response received: {
+2026-02-23T11:13:36.301158812Z   status: 200,
+2026-02-23T11:13:36.301169552Z   business_name: 'Joes bakery',
+2026-02-23T11:13:36.301174552Z   viability_score: 77,
+2026-02-23T11:13:36.301179473Z   energy_scenario: 'diesel_replacement'
+2026-02-23T11:13:36.301184073Z }
+2026-02-23T11:13:36.301189013Z [COMPUTE] Model 4 response received, validating structure
+2026-02-23T11:13:36.301220513Z [COMPUTE] Model 4 succeeded, returning DSE response
+2026-02-23T11:13:36.301226054Z [COMPUTE] Assessment complete (DSE): { source: 'DSE_MODEL4', viability_score: 77, status: 'HIGHLY VIABLE' }
+2026-02-23T11:13:36.305210596Z [ANALYZE] Analysis complete: {
+2026-02-23T11:13:36.305226127Z   source: 'DSE_MODEL4',
+2026-02-23T11:13:36.305229547Z   business_name: 'Joes bakery',
+2026-02-23T11:13:36.305232407Z   viability_score: 77,
+2026-02-23T11:13:36.305234997Z   status: 'HIGHLY VIABLE'
+2026-02-23T11:13:36.305237557Z }
+2026-02-23T11:13:36.305240957Z 10.17.49.1 - - [23/Feb/2026:11:13:36 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6724 "https://solarsense-ai.vercel.app/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+2026-02-23T11:17:23.5247286Z 2026-02-23T11:17:23.524Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T11:17:23.525276211Z 10.17.200.68 - - [23/Feb/2026:11:17:23 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:20:49.199962108Z 2026-02-23T11:20:49.199Z - POST /api/v1/assessments/analyze - IP: 10.17.200.68
+2026-02-23T11:20:49.205091605Z 10.17.200.68 - - [23/Feb/2026:11:20:49 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 400 290 "https://solarsense-ai.vercel.app/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+2026-02-23T11:21:42.563696473Z 2026-02-23T11:21:42.563Z - POST /api/v1/assessments/analyze - IP: 10.17.49.1
+2026-02-23T11:21:42.566806308Z [COMPUTE] Starting assessment computation: {
+2026-02-23T11:21:42.566822858Z   businessType: 'butchery',
+2026-02-23T11:21:42.566828189Z   location: 'Lagos, Nigeria',
+2026-02-23T11:21:42.566833678Z   uses_diesel: true,
+2026-02-23T11:21:42.566838399Z   simulate_model4_failure: false,
+2026-02-23T11:21:42.566842799Z   simulate_deep_failure: false
+2026-02-23T11:21:42.566847209Z }
+2026-02-23T11:21:42.566851969Z [COMPUTE] Attempting Model 4 (DSE orchestration)
+2026-02-23T11:21:42.56689756Z [Model 4] Calling DSE analyze endpoint: {
+2026-02-23T11:21:42.56690671Z   url: 'https://dse-models-production.up.railway.app/api/v1/analyze',
+2026-02-23T11:21:42.56691235Z   business_name: 'Joes',
+2026-02-23T11:21:42.56691705Z   business_type: 'butchery',
+2026-02-23T11:21:42.56692173Z   uses_diesel: true
+2026-02-23T11:21:42.566926631Z }
+2026-02-23T11:21:43.457688547Z [Model 4] DSE analyze response received: {
+2026-02-23T11:21:43.457709767Z   status: 200,
+2026-02-23T11:21:43.457715208Z   business_name: 'Joes',
+2026-02-23T11:21:43.457719948Z   viability_score: 77,
+2026-02-23T11:21:43.457724518Z   energy_scenario: 'diesel_replacement'
+2026-02-23T11:21:43.457729138Z }
+2026-02-23T11:21:43.457734468Z [COMPUTE] Model 4 response received, validating structure
+2026-02-23T11:21:43.457743958Z [COMPUTE] Model 4 succeeded, returning DSE response
+2026-02-23T11:21:43.45780238Z [COMPUTE] Assessment complete (DSE): { source: 'DSE_MODEL4', viability_score: 77, status: 'HIGHLY VIABLE' }
+2026-02-23T11:21:43.45781571Z [ANALYZE] Analysis complete: {
+2026-02-23T11:21:43.45782148Z   source: 'DSE_MODEL4',
+2026-02-23T11:21:43.45782649Z   business_name: 'Joes',
+2026-02-23T11:21:43.45783149Z   viability_score: 77,
+2026-02-23T11:21:43.45783663Z   status: 'HIGHLY VIABLE'
+2026-02-23T11:21:43.45784134Z }
+2026-02-23T11:21:43.458425792Z 10.17.49.1 - - [23/Feb/2026:11:21:43 +0000] "POST /api/v1/assessments/analyze HTTP/1.1" 200 6707 "https://solarsense-ai.vercel.app/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+2026-02-23T11:22:27.625454105Z 2026-02-23T11:22:27.625Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T11:22:27.625942545Z 10.17.200.68 - - [23/Feb/2026:11:22:27 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:27:34.86388307Z 2026-02-23T11:27:34.863Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T11:27:34.863918111Z 10.17.200.68 - - [23/Feb/2026:11:27:34 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:32:40.756637001Z 2026-02-23T11:32:40.755Z - HEAD /health - IP: 10.17.200.68
+2026-02-23T11:32:40.756859376Z 10.17.200.68 - - [23/Feb/2026:11:32:40 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:37:44.079144092Z 2026-02-23T11:37:44.077Z - HEAD /health - IP: 10.20.239.2
+2026-02-23T11:37:44.079715304Z 10.20.239.2 - - [23/Feb/2026:11:37:44 +0000] "HEAD /health HTTP/1.1" 200 144 "https://solarsense-backend-zdrw.onrender.com/health" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+2026-02-23T11:41:27.433430557Z 2026-02-23T11:41:27.433Z - POST /api/v1/assessments/analyze - IP: 10.20.239.2
